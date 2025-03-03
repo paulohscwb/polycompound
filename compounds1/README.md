@@ -22,7 +22,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Catalan gems</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Tetrahedra family</h2>
 A polyhedral compound is an arrangement of several interpenetrating polyhedra, all the same or of distinct types. Polyhedral compounds often have visually interesting symmetrical properties. Compounds of multiple Platonic and Archimedean solids can be especially appealing, as can compounds of these solids and their duals.
 <br>This work shows polyhedral compounds, modeled for viewing in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>

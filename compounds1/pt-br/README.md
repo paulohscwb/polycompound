@@ -22,7 +22,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Gemas de Catalan</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Família dos tetraedros</h2>
   Um composto poliédrico é um arranjo de vários poliedros interpenetrantes, todos iguais ou de tipos distintos. Os compostos poliédricos geralmente têm propriedades simétricas visualmente interessantes. Compostos de múltiplos sólidos Platônicos e Arquimedianos podem ser especialmente atraentes, assim como compostos desses sólidos e seus duais.
 <br>Este trabalho mostra os compostos de poliedros, modelados para visualização em Realidade Virtual.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
