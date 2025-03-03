@@ -98,12 +98,12 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
  <br>
 <hr>
 <h4>14. Triakis Tetrahedron</h4>
-<a href="vr/TriakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="triakis tetrahedron compound"></a>
+<a href="vr/TriakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="triakis tetrahedron compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices with a regular dodecahedron.
  <br>
 <hr>
 <h4>15. Truncated Tetrahedron</h4>
-<a href="vr/TruncatedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Truncated Tetrahedron compound"></a>
+<a href="vr/TruncatedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Truncated Tetrahedron compound"></a>
  <br>The icosicosahedron is a compound of ten polyhedra and can be considered as a regular compound of polyhedra. The vertices coincide in pairs, and form a convex hull with the vertices of a regular dodecahedron.
  <br>
 <hr>
