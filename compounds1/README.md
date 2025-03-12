@@ -58,7 +58,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>6. Joined Truncated Tetrahedron</h4>
 <a href="vr/JoinedTruncatedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Joined Truncated Tetrahedron compound"></a>
- <br>The disnubahedron is a compound of twelve polyhedra, forming a uniform polyhedron. This compound has rotational freedom. The examples in this work show rotations with angles of 30&ordm; or 45&ordm;.
+ <br>The disnubahedron is a compound of twelve polyhedra, forming a uniform polyhedron. This is a special case of the small snubahedron, with double symmetry and rotation angles of 30&ordm; or 45&ordm;.
  <br>
 <hr>
 <h4>7. Möbius Deltahedron</h4>
@@ -74,7 +74,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>9. Propellor Tetrahedron</h4>
 <a href="vr/PropellorTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Propellor Tetrahedron compound"></a>
- <br>The snubahedron is a compound of six polyhedra. This is a special case of the small snubahedron, with double symmetry and rotation angles of 45&ordm;.
+ <br>The snubahedron is a compound of six polyhedra, with rotation angles of 45&ordm;.
  <br>
 <hr>
 <h4>10. Tetartoid</h4>
@@ -84,7 +84,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>11. Tetrahedron</h4>
 <a href="vr/Tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Tetrahedron compound"></a>
- <br>The disnubahedron is a compound of twelve polyhedra, forming a uniform polyhedron. This compound has rotational freedom. The examples in this work show rotations with angles of 30&ordm; or 45&ordm;.
+ <br>The disnubahedron is a compound of twelve polyhedra, forming a uniform polyhedron. This is a special case of the small snubahedron, with double symmetry and rotation angles of 30&ordm; or 45&ordm;.
  <br>
 <hr>
 <h4>12. Trapezohedral Tristetrahedron 1</h4>
