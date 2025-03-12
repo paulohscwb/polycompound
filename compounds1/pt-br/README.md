@@ -58,7 +58,7 @@ function urlHandler(value) {
 <hr>
 <h4>6. Tetraedro Truncado Combinado</h4>
 <a href="../vr/JoinedTruncatedTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Tetraedro Truncado Combinado composto"></a>
- <br>O disnubahedro é um composto de doze poliedros, formando um poliedro uniforme. Este composto tem liberdade rotacional. Os exemplos deste trabalho mostram rotações com ângulos de 30&ordm; ou 45&ordm;.
+ <br>O disnubaedro é um composto de doze poliedros, formando um poliedro uniforme. Este composto tem liberdade rotacional. Os exemplos deste trabalho mostram rotações com ângulos de 30&ordm; ou 45&ordm;.
  <br>
 <hr>
 <h4>7. Deltaedro de Möbius</h4>
@@ -74,7 +74,7 @@ function urlHandler(value) {
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>9. Tetraedro de hélice</h4>
 <a href="../vr/PropellorTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Tetraedro de hélice composto"></a>
- <br>O snubahedro é um composto de seis poliedros. Este é um caso especial do pequeno snubaedro, com simetria dupla e ângulos de rotação de 45&ordm;.
+ <br>O snubaedro é um composto de seis poliedros. Este é um caso especial do pequeno snubaedro, com simetria dupla e ângulos de rotação de 45&ordm;.
  <br>
 <hr>
 <h4>10. Tetartoide</h4>
@@ -84,7 +84,7 @@ function urlHandler(value) {
 <hr>
 <h4>11. Tetraedro</h4>
 <a href="../vr/Tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Tetraedro composto"></a>
- <br>O disnubahedro é um composto de doze poliedros, formando um poliedro uniforme. Este composto tem liberdade rotacional. Os exemplos deste trabalho mostram rotações com ângulos de 30&ordm; ou 45&ordm;.
+ <br>O disnubaedro é um composto de doze poliedros, formando um poliedro uniforme. Este composto tem liberdade rotacional. Os exemplos deste trabalho mostram rotações com ângulos de 30&ordm; ou 45&ordm;.
  <br>
 <hr>
 <h4>12. Tristetraedro Trapezoédrico 1</h4>
