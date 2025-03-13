@@ -33,22 +33,22 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Chamfered tetrahedron</h4>
 <a href="vr/ChamferedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Chamfered Tetrahedron compound"></a>
- <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices with a regular dodecahedron.
+ <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron
  <br>
 <hr>
 <h4>2. Hexakis Tetrahedron 1</h4>
 <a href="vr/HexakisTetrahedron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Hexakis Tetrahedron compound"></a>
- <br>The result of "Compound 1" is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 4 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>3. Hexakis Tetrahedron 2</h4>
 <a href="vr/HexakisTetrahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Hexakis Tetrahedron compound"></a>
- <br>The result of "Compound 2" is a stellated polyhedron, resembling stellated trapezohedrons.
+ <br>The result of "Compound 2" of 3 polyhedra is a stellated polyhedron, resembling stellated trapezohedrons.
  <br>
 <hr>
 <h4>4. Hexakis Tetrahedron 3</h4>
 <a href="vr/HexakisTetrahedron3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Hexakis Tetrahedron compound"></a>
- <br>The result of "Compound 3" is a stellated polyhedron, resembling double stellated pyramids.
+ <br>The result of "Compound 3" of 14 polyhedra is a stellated polyhedron, resembling double stellated pyramids.
  <br>
 <hr>
 <h4>5. Hexakis Tetrahedron 4</h4>
@@ -79,7 +79,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>10. Tetartoid</h4>
 <a href="vr/Tetartoid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Tetartoid compound"></a>
- <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices with a regular dodecahedron.
+ <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron
  <br>
 <hr>
 <h4>11. Tetrahedron</h4>
@@ -99,7 +99,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>14. Triakis Tetrahedron</h4>
 <a href="vr/TriakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="triakis tetrahedron compound"></a>
- <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices with a regular dodecahedron.
+ <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron
  <br>
 <hr>
 <h4>15. Truncated Tetrahedron</h4>

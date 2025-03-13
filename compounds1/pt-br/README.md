@@ -33,22 +33,22 @@ function urlHandler(value) {
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Tetraedro Chanfrado</h4>
 <a href="../vr/ChamferedTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tetraedro Chanfrado composto"></a>
- <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns com um dodecaedro regular.
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular
  <br>
 <hr>
 <h4>2. Tetraedro Hexakis 1</h4>
 <a href="../vr/HexakisTetrahedron1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Tetraedro Hexakis composto 1"></a>
- <br>O resultado do "Composto 1" (Compound 1) é um poliedro estrelado, lembrando pirâmides estreladas.
+ <br>O resultado do "Composto 1" (Compound 1) de 4 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>3. Tetraedro Hexakis 2</h4>
 <a href="../vr/HexakisTetrahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Tetraedro Hexakis composto"></a>
- <br>O resultado do "Composto 2" (Compound 2) é um poliedro estrelado, lembrando trapezoedros estrelados.
+ <br>O resultado do "Composto 2" (Compound 2) de 3 poliedros é um poliedro estrelado, lembrando trapezoedros estrelados.
  <br>
 <hr>
 <h4>4. Tetraedro Hexakis 3</h4>
 <a href="../vr/HexakisTetrahedron3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Tetraedro Hexakis composto"></a>
- <br>O resultado do "Composto 3" (Compound 3) é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 3" (Compound 3) de 14 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>5. Tetraedro Hexakis 4</h4>
@@ -79,7 +79,7 @@ function urlHandler(value) {
 <hr>
 <h4>10. Tetartoide</h4>
 <a href="../vr/Tetartoid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Tetartoide composto"></a>
- <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns com um dodecaedro regular.
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular
  <br>
 <hr>
 <h4>11. Tetraedro</h4>
@@ -99,7 +99,7 @@ function urlHandler(value) {
 <hr>
 <h4>14. Tetraedro triakis</h4>
 <a href="../vr/TriakisTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="tetraedro triakis composto"></a>
- <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns com um dodecaedro regular. 
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular 
  <br>
 <hr>
 <h4>15. Tetraedro truncado</h4>
