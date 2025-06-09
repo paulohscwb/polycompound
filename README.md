@@ -9,8 +9,8 @@
  <br>This work shows the most well-known polyhedral compounds, all with models for viewing in Virtual Reality: chiricosahedron, Escher compound, disnubahedron, snubahedron, icosicosahedron and small snubahedron.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="compounds1/"><img src="compounds1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tetrahedra family</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="compounds2/pt-br/"><img src="compounds2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Cube family</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="compounds3/pt-br/"><img src="compounds3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Octahedra family</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="compounds2/pt-br/"><img src="compounds2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Cube family</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="compounds3/pt-br/"><img src="compounds3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Octahedra family</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="compounds4/pt-br/"><img src="compounds4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compounds of dual polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="compounds5/pt-br/"><img src="compounds5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compounds of two polyhedra</a></h3>-->
 <hr>

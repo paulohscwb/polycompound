@@ -19,10 +19,10 @@
 		<a-assets>
 			<a-asset-item id="mt" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c2.mtl"></a-asset-item>
 			<a-asset-item id="mt1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
-			<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra2/chamfered/vr/outros/ChamferedTetrahedron.obj"></a-asset-item>
-			<a-asset-item id="aq1" src="https://paulohscwb.github.io/polyhedra2/chamfered/vr/outros/ChamferedTetrahedronL.obj"></a-asset-item>
-			<a-mixin id="fc" scale="2.5 2.5 2.5" obj-model="obj: #aq; mtl: #mt">
-			<a-mixin id="ar" scale="2.505 2.505 2.505" obj-model="obj: #aq1; mtl: #mt1"></a-mixin>
+			<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/TruncatedCube.obj"></a-asset-item>
+			<a-asset-item id="aq1" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/TruncatedCubeL.obj"></a-asset-item>
+			<a-mixin id="fc" scale="1.76 1.76 1.76" obj-model="obj: #aq; mtl: #mt">
+			<a-mixin id="ar" scale="1.763 1.763 1.763" obj-model="obj: #aq1; mtl: #mt1"></a-mixin>
 			<a-asset-item id="aq2" src="https://paulohscwb.github.io/polyhedra/platonic/vr/outros/DodecahedronL.obj"></a-asset-item>
 			<a-asset-item id="mt2" src="https://paulohscwb.github.io/polyhedra/platonic/vr/outros/solidos1.mtl"></a-asset-item>
 			<a-mixin id="ar1" scale="2.645 2.645 2.645" obj-model="obj: #aq2; mtl: #mt2"></a-mixin>
@@ -33,7 +33,6 @@
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 		<a-light type="point" color="yellow" intensity="1" position="0 0 0"></a-light>
-		<a-entity>
 		
 		<a-entity scale="1.65 1.65 1.65" id="nivel0" visible="false">
 			<a-entity mixin="ar1" rotation="0 0 0"></a-entity>
@@ -51,13 +50,9 @@
 		
 		<a-entity scale="1.65 1.65 1.65" id="nivel1" visible="false">
 			<a-entity mixin="fc" rotation="35.25 0 -45"></a-entity>
-			<a-entity mixin="fc" rotation="35.25 60 -45"></a-entity>
-			<a-entity mixin="fc" rotation="35.25 0 45"></a-entity>
-			<a-entity mixin="fc" rotation="35.25 60 45"></a-entity>
+			<a-entity mixin="fc" rotation="35.25 40 -45"></a-entity><a-entity mixin="fc" rotation="35.25 80 -45"></a-entity>
 			<a-entity mixin="ar" rotation="35.25 0 -45"></a-entity>
-			<a-entity mixin="ar" rotation="35.25 60 -45"></a-entity>
-			<a-entity mixin="ar" rotation="35.25 0 45"></a-entity>
-			<a-entity mixin="ar" rotation="35.25 60 45"></a-entity>
+			<a-entity mixin="ar" rotation="35.25 40 -45"></a-entity><a-entity mixin="ar" rotation="35.25 80 -45"></a-entity>
 		</a-entity>
 		
 		<a-entity scale="1.65 1.65 1.65" id="nivel2" visible="false">
@@ -69,38 +64,63 @@
 			<a-entity mixin="ar" rotation="0 120 0"></a-entity>
 		</a-entity>
 		
-		<a-entity scale="1.65 1.65 1.65" id="nivel3">
+		<a-entity scale="1.65 1.65 1.65" id="nivel3" visible="false">
 			<a-entity mixin="fc" rotation="35.25 0 45"></a-entity>
 			<a-entity mixin="fc" rotation="-35.25 0 45"></a-entity>
-			<a-entity mixin="fc" rotation="35.25 60 45"></a-entity>
-			<a-entity mixin="fc" rotation="-35.25 60 45"></a-entity>
-			<a-entity mixin="fc" rotation="35.25 30 45"></a-entity>
-			<a-entity mixin="fc" rotation="-35.25 30 45"></a-entity>
-			<a-entity mixin="fc" rotation="35.25 90 45"></a-entity>
-			<a-entity mixin="fc" rotation="-35.25 90 45"></a-entity>
-			<a-entity mixin="fc" rotation="0 45 0"></a-entity>
 			<a-entity mixin="fc" rotation="0 -15 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 -75 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 -45 180"></a-entity>
-			<a-entity mixin="fc" rotation="0 15 180"></a-entity>
-			<a-entity mixin="fc" rotation="0 75 180"></a-entity>
+			<a-entity mixin="fc" rotation="0 15 0"></a-entity>
+			<a-entity mixin="fc" rotation="0 45 0"></a-entity>
 			<a-entity mixin="ar" rotation="35.25 0 45"></a-entity>
 			<a-entity mixin="ar" rotation="-35.25 0 45"></a-entity>
-			<a-entity mixin="ar" rotation="35.25 60 45"></a-entity>
-			<a-entity mixin="ar" rotation="-35.25 60 45"></a-entity>
-			<a-entity mixin="ar" rotation="35.25 30 45"></a-entity>
-			<a-entity mixin="ar" rotation="-35.25 30 45"></a-entity>
-			<a-entity mixin="ar" rotation="35.25 90 45"></a-entity>
-			<a-entity mixin="ar" rotation="-35.25 90 45"></a-entity>
-			<a-entity mixin="ar" rotation="0 45 0"></a-entity>
 			<a-entity mixin="ar" rotation="0 -15 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 -75 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 -45 180"></a-entity>
-			<a-entity mixin="ar" rotation="0 15 180"></a-entity>
-			<a-entity mixin="ar" rotation="0 75 180"></a-entity>
+			<a-entity mixin="ar" rotation="0 15 0"></a-entity>
+			<a-entity mixin="ar" rotation="0 45 0"></a-entity>
 		</a-entity>
 		
 		<a-entity scale="1.65 1.65 1.65" id="nivel4" visible="false">
+			<a-entity mixin="fc" rotation="11.7 15.2 15.2"></a-entity>
+			<a-entity mixin="fc" rotation="0 51.8 19.1"></a-entity>
+			<a-entity mixin="fc" rotation="11.7 -15.2 -15.2"></a-entity>
+			<a-entity mixin="fc" rotation="0 -51.8 -19.1"></a-entity>
+			<a-entity mixin="fc" rotation="-11.7 15.2 -15.2"></a-entity>
+			<a-entity mixin="fc" rotation="0 51.8 -19.1"></a-entity>
+			<a-entity mixin="fc" rotation="-11.7 -15.2 15.2"></a-entity>
+			<a-entity mixin="fc" rotation="0 -51.8 19.1"></a-entity>
+			<a-entity mixin="fc" rotation="47.9 29.2 22.5"></a-entity>
+			<a-entity mixin="fc" rotation="-14.9 77.9 39.8"></a-entity>
+			<a-entity mixin="fc" rotation="-35.75 113.75 23.7"></a-entity>
+			<a-entity mixin="fc" rotation="-19.1 141.9 38.2"></a-entity>
+			<a-entity mixin="fc" rotation="47.9 -29.2 -22.5"></a-entity>
+			<a-entity mixin="fc" rotation="-38.2 180 19.1"></a-entity>
+			<a-entity mixin="fc" rotation="-11.7 -15.2 53.4"></a-entity>
+			<a-entity mixin="fc" rotation="-11.7 15.2 -53.4"></a-entity>
+			<a-entity mixin="fc" rotation="11.7 -15.2 36.7"></a-entity>
+			<a-entity mixin="fc" rotation="11.7 15.2 -36.7"></a-entity>
+			<a-entity mixin="fc" rotation="47.9 29.2 60.8"></a-entity>
+			<a-entity mixin="fc" rotation="47.9 -29.2 29.2"></a-entity>
+			<a-entity mixin="ar" rotation="11.7 15.2 15.2"></a-entity>
+			<a-entity mixin="ar" rotation="0 51.8 -19.1"></a-entity>
+			<a-entity mixin="ar" rotation="-11.7 -15.2 15.2"></a-entity>
+			<a-entity mixin="ar" rotation="0 -51.8 -19.1"></a-entity>
+			<a-entity mixin="ar" rotation="-11.7 15.2 -15.2"></a-entity>
+			<a-entity mixin="ar" rotation="0 51.8 19.1"></a-entity>
+			<a-entity mixin="ar" rotation="11.7 -15.2 -15.2"></a-entity>
+			<a-entity mixin="ar" rotation="0 -51.8 19.1"></a-entity>
+			<a-entity mixin="ar" rotation="47.9 29.2 22.5"></a-entity>
+			<a-entity mixin="ar" rotation="-14.9 77.9 39.8"></a-entity>
+			<a-entity mixin="ar" rotation="-35.75 113.75 23.7"></a-entity>
+			<a-entity mixin="ar" rotation="-19.1 141.9 38.2"></a-entity>
+			<a-entity mixin="ar" rotation="47.9 -29.2 -22.5"></a-entity>
+			<a-entity mixin="ar" rotation="-38.2 180 19.1"></a-entity>
+			<a-entity mixin="ar" rotation="-11.7 -15.2 53.4"></a-entity>
+			<a-entity mixin="ar" rotation="-11.7 15.2 -53.4"></a-entity>
+			<a-entity mixin="ar" rotation="11.7 -15.2 36.7"></a-entity>
+			<a-entity mixin="ar" rotation="11.7 15.2 -36.7"></a-entity>
+			<a-entity mixin="ar" rotation="47.9 29.2 60.8"></a-entity>
+			<a-entity mixin="ar" rotation="47.9 -29.2 29.2"></a-entity>
+		</a-entity>
+		
+		<a-entity scale="1.65 1.65 1.65" id="nivel5">
 			<a-entity mixin="fc" rotation="0 0 0"></a-entity>
 			<a-entity mixin="fc" rotation="41.81 -26.5 26.5"></a-entity>
 			<a-entity mixin="fc" rotation="-19.4 -45 45"></a-entity>
@@ -111,104 +131,34 @@
 			<a-entity mixin="ar" rotation="-19.4 -45 45"></a-entity>
 			<a-entity mixin="ar" rotation="19.4 45 45"></a-entity>
 			<a-entity mixin="ar" rotation="-41.81 26.5 26.5"></a-entity>
-			<a-entity rotation="0 0 90">
-				<a-entity mixin="fc" rotation="0 0 0"></a-entity>
-				<a-entity mixin="fc" rotation="41.81 -26.5 26.5"></a-entity>
-				<a-entity mixin="fc" rotation="-19.4 -45 45"></a-entity>
-				<a-entity mixin="fc" rotation="19.4 45 45"></a-entity>
-				<a-entity mixin="fc" rotation="-41.81 26.5 26.5"></a-entity>
-				<a-entity mixin="ar" rotation="0 0 0"></a-entity>
-				<a-entity mixin="ar" rotation="41.81 -26.5 26.50"></a-entity>
-				<a-entity mixin="ar" rotation="-19.4 -45 45"></a-entity>
-				<a-entity mixin="ar" rotation="19.4 45 45"></a-entity>
-				<a-entity mixin="ar" rotation="-41.81 26.5 26.5"></a-entity>
-			</a-entity>
-		</a-entity>
-		
-		<a-entity scale="1.65 1.65 1.65" id="nivel5" visible="false">
-			<a-entity mixin="fc" rotation="0 30 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 -30 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 30"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 -30"></a-entity>
-			<a-entity mixin="fc" rotation="30 0 0"></a-entity>
-			<a-entity mixin="fc" rotation="-30 0 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 30 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 -30 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 30"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 -30"></a-entity>
-			<a-entity mixin="ar" rotation="30 0 0"></a-entity>
-			<a-entity mixin="ar" rotation="-30 0 0"></a-entity>
-			<a-entity rotation="0 0 90">
-				<a-entity mixin="fc" rotation="0 30 0"></a-entity>
-				<a-entity mixin="fc" rotation="0 -30 0"></a-entity>
-				<a-entity mixin="fc" rotation="0 0 30"></a-entity>
-				<a-entity mixin="fc" rotation="0 0 -30"></a-entity>
-				<a-entity mixin="fc" rotation="30 0 0"></a-entity>
-				<a-entity mixin="fc" rotation="-30 0 0"></a-entity>
-				<a-entity mixin="ar" rotation="0 30 0"></a-entity>
-				<a-entity mixin="ar" rotation="0 -30 0"></a-entity>
-				<a-entity mixin="ar" rotation="0 0 30"></a-entity>
-				<a-entity mixin="ar" rotation="0 0 -30"></a-entity>
-				<a-entity mixin="ar" rotation="30 0 0"></a-entity>
-				<a-entity mixin="ar" rotation="-30 0 0"></a-entity>
-			</a-entity>
 		</a-entity>
 		
 		<a-entity scale="1.65 1.65 1.65" id="nivel6" visible="false">
-			<a-entity mixin="ar1" rotation="0 0 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 0"></a-entity>
-			<a-entity mixin="fc" rotation="-54 58.35 148.225"></a-entity>
-			<a-entity mixin="fc" rotation="54 58.35 -148.225"></a-entity>
-			<a-entity mixin="fc" rotation="-54 -58.35 -148.225"></a-entity>
-			<a-entity mixin="fc" rotation="54 -58.35 148.225"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 0"></a-entity>
-			<a-entity mixin="ar" rotation="-54 58.35 148.225"></a-entity>
-			<a-entity mixin="ar" rotation="54 58.35 -148.225"></a-entity>
-			<a-entity mixin="ar" rotation="-54 -58.35 -148.225"></a-entity>
-			<a-entity mixin="ar" rotation="54 -58.35 148.225"></a-entity>
-			<a-entity mixin="fc" rotation="30 20.95 -20.95"></a-entity>
-			<a-entity mixin="fc" rotation="30 -20.95 20.95"></a-entity>
-			<a-entity mixin="fc" rotation="0 90 0"></a-entity>
-			<a-entity mixin="fc" rotation="-54 121.7 -58.225"></a-entity>
-			<a-entity mixin="fc" rotation="-54 -121.7 58.225"></a-entity>
-			<a-entity mixin="ar" rotation="30 20.95 -20.95"></a-entity>
-			<a-entity mixin="ar" rotation="30 -20.95 20.95"></a-entity>
-			<a-entity mixin="ar" rotation="0 90 0"></a-entity>
-			<a-entity mixin="ar" rotation="-54 121.7 -58.225"></a-entity>
-			<a-entity mixin="ar" rotation="-54 -121.7 58.225"></a-entity>
+			<a-entity mixin="fc" rotation="0 30 0"></a-entity>
+			<a-entity mixin="fc" rotation="0 0 30"></a-entity>
+			<a-entity mixin="fc" rotation="30 0 0"></a-entity>
+			<a-entity rotation="0 0 90">
+				<a-entity mixin="fc" rotation="0 30 0"></a-entity>
+				<a-entity mixin="fc" rotation="0 0 -30"></a-entity>
+				<a-entity mixin="fc" rotation="-30 0 0"></a-entity>
+				<a-entity mixin="ar" rotation="0 30 0"></a-entity>
+				<a-entity mixin="ar" rotation="0 0 -30"></a-entity>
+				<a-entity mixin="ar" rotation="-30 0 0"></a-entity>
+			</a-entity>
+			<a-entity mixin="ar" rotation="0 30 0"></a-entity>
+			<a-entity mixin="ar" rotation="0 0 30"></a-entity>
+			<a-entity mixin="ar" rotation="30 0 0"></a-entity>
 		</a-entity>
 		
 		<a-entity scale="1.65 1.65 1.65" id="nivel7" visible="false">
-			<a-entity mixin="fc" rotation="0 30 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 -30 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 30"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 -30"></a-entity>
-			<a-entity mixin="fc" rotation="30 0 0"></a-entity>
-			<a-entity mixin="fc" rotation="-30 0 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 30 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 -30 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 30"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 -30"></a-entity>
-			<a-entity mixin="ar" rotation="30 0 0"></a-entity>
-			<a-entity mixin="ar" rotation="-30 0 0"></a-entity>
-		</a-entity>
-		
-		<a-entity scale="1.65 1.65 1.65" id="nivel8" visible="false">
 			<a-entity mixin="fc" rotation="0 45 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 -45 0"></a-entity>
 			<a-entity mixin="fc" rotation="0 0 45"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 -45"></a-entity>
 			<a-entity mixin="fc" rotation="45 0 0"></a-entity>
-			<a-entity mixin="fc" rotation="-45 0 0"></a-entity>
 			<a-entity mixin="ar" rotation="0 45 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 -45 0"></a-entity>
 			<a-entity mixin="ar" rotation="0 0 45"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 -45"></a-entity>
 			<a-entity mixin="ar" rotation="45 0 0"></a-entity>
-			<a-entity mixin="ar" rotation="-45 0 0"></a-entity>
 		</a-entity>
 		
-		</a-entity>
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" intensity="0.5" position="-7 5 1"></a-light>
 		<a-light type="directional" color="white" intensity="0.5" position="7 -5 1"></a-light>
@@ -216,18 +166,17 @@
 		<a-sky color="azure"></a-sky>
     </a-scene>
 	<div class="box">
-		<span class="titulo">Chamfered Tetrahedron</span>
-		<br><span class="titulo">Tetraedro Chanfrado</span>
+		<span class="titulo">Truncated Cube</span>
+		<br><span class="titulo">Cubo Truncado</span>
 		<hr><select id="url" onchange="nv.value=this.value; mnivelRA()">
 			<option value="0">Chiricosahedron</option>
 			<option value="1">Compound 1</option>
 			<option value="2">Compound 2</option>
-			<option value="3" selected>Compound 3</option>
-			<option value="4">Escher Compound</option>
-			<option value="5">Disnubahedron</option>
-			<option value="6">Icosicosahedron</option>
-			<option value="7">Small Snubahedron</option>
-			<option value="8">Snubahedron</option>
+			<option value="3">Compound 3</option>
+			<option value="4">Compound 4</option>
+			<option value="5" selected>Escher Compound</option>
+			<option value="6">Disnubahedron</option>
+			<option value="7">Snubahedron</option>
 		</select>
 	</div>
   </body>
