@@ -19,8 +19,8 @@
 		<a-assets>
 			<a-asset-item id="mt" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
 			<a-asset-item id="mt1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
-			<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/SnubCube.obj"></a-asset-item>
-			<a-asset-item id="aq1" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/SnubCubeL.obj"></a-asset-item>
+			<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra3/kites/vr/obj/Rhombicuboctahedron.obj"></a-asset-item>
+			<a-asset-item id="aq1" src="https://paulohscwb.github.io/polyhedra3/kites/vr/obj/RhombicuboctahedronL.obj"></a-asset-item>
 			<a-mixin id="fc" scale="2.27 2.27 2.27" obj-model="obj: #aq; mtl: #mt">
 			<a-mixin id="ar" scale="2.275 2.275 2.275" obj-model="obj: #aq1; mtl: #mt1"></a-mixin>
 			<a-asset-item id="aq2" src="https://paulohscwb.github.io/polyhedra/platonic/vr/outros/DodecahedronL.obj"></a-asset-item>
@@ -133,24 +133,24 @@
 			<a-entity mixin="ar" rotation="-41.81 26.5 26.5"></a-entity>
 		</a-entity>
 		
-		<a-entity scale="1.65 1.65 1.65" id="nivel6">
-			<a-entity mixin="fc" rotation="0 21 0"></a-entity>
-			<a-entity mixin="fc" rotation="0 0 21"></a-entity>
-			<a-entity mixin="fc" rotation="21 0 0"></a-entity>
+		<a-entity scale="1.65 1.65 1.65" id="nivel6" visible="false">
+			<a-entity mixin="fc" rotation="0 30 0"></a-entity>
+			<a-entity mixin="fc" rotation="0 0 30"></a-entity>
+			<a-entity mixin="fc" rotation="30 0 0"></a-entity>
 			<a-entity rotation="0 0 90">
-				<a-entity mixin="fc" rotation="0 21 0"></a-entity>
-				<a-entity mixin="fc" rotation="0 0 -21"></a-entity>
-				<a-entity mixin="fc" rotation="-21 0 0"></a-entity>
-				<a-entity mixin="ar" rotation="0 21 0"></a-entity>
-				<a-entity mixin="ar" rotation="0 0 -21"></a-entity>
-				<a-entity mixin="ar" rotation="-21 0 0"></a-entity>
+				<a-entity mixin="fc" rotation="0 30 0"></a-entity>
+				<a-entity mixin="fc" rotation="0 0 -30"></a-entity>
+				<a-entity mixin="fc" rotation="-30 0 0"></a-entity>
+				<a-entity mixin="ar" rotation="0 30 0"></a-entity>
+				<a-entity mixin="ar" rotation="0 0 -30"></a-entity>
+				<a-entity mixin="ar" rotation="-30 0 0"></a-entity>
 			</a-entity>
-			<a-entity mixin="ar" rotation="0 21 0"></a-entity>
-			<a-entity mixin="ar" rotation="0 0 21"></a-entity>
-			<a-entity mixin="ar" rotation="21 0 0"></a-entity>
+			<a-entity mixin="ar" rotation="0 30 0"></a-entity>
+			<a-entity mixin="ar" rotation="0 0 30"></a-entity>
+			<a-entity mixin="ar" rotation="30 0 0"></a-entity>
 		</a-entity>
 		
-		<a-entity scale="1.65 1.65 1.65" id="nivel7" visible="false">
+		<a-entity scale="1.65 1.65 1.65" id="nivel7">
 			<a-entity mixin="fc" rotation="0 45 0"></a-entity>
 			<a-entity mixin="fc" rotation="0 0 45"></a-entity>
 			<a-entity mixin="fc" rotation="45 0 0"></a-entity>
@@ -166,8 +166,8 @@
 		<a-sky color="azure"></a-sky>
     </a-scene>
 	<div class="box">
-		<span class="titulo">Snub Cube</span>
-		<br><span class="titulo">Cubo Snub</span>
+		<span class="titulo">Rhombicuboctahedron kites</span>
+		<br><span class="titulo">Rombicuboctaedro com pipas</span>
 		<hr><select id="url" onchange="nv.value=this.value; mnivelRA()">
 			<option value="0">Chiricosahedron</option>
 			<option value="1">Compound 1</option>
@@ -175,8 +175,8 @@
 			<option value="3">Compound 3</option>
 			<option value="4">Compound 4</option>
 			<option value="5">Escher Compound</option>
-			<option value="6" selected>Disnubahedron</option>
-			<option value="7">Snubahedron</option>
+			<option value="6">Disnubahedron</option>
+			<option value="7" selected>Snubahedron</option>
 		</select>
 	</div>
   </body>

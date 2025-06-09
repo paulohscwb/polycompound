@@ -106,6 +106,11 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <a href="vr/TruncatedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Truncated Tetrahedron compound"></a>
  <br>The icosicosahedron is a compound of ten polyhedra and can be considered as a regular compound of polyhedra. The vertices coincide in pairs, and form a convex hull with the vertices of a regular dodecahedron.
  <br>
+ <hr>
+<h4>16. Truncated Tetrahedron Kites</h4>
+<a href="vr/TruncatedTetrahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Truncated Tetrahedron kites compound"></a>
+ <br>The Escher compound can be adapted to the tetrahedra family using 10 polyhedra. The result of this composition is a solid that resembles the Escher solid. The central image of the 1948 engraving Stars popularized the Escher compound of octahedra.
+ <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 

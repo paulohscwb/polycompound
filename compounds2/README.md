@@ -38,7 +38,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>2. Concave Dyakis Dodecahedron</h4>
 <a href="vr/ConcaveDyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Concave Dyakis Dodecahedron compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>3. Cube</h4>
@@ -78,7 +78,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>10. Great Cubicuboctahedron</h4>
 <a href="vr/GreatCubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Great Cubicuboctahedron compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
@@ -114,7 +114,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>17. Joined Rhombicuboctahedron</h4>
 <a href="vr/JoinedRhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Joined Rhombicuboctahedron compound"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>18. Joined Snub Cube</h4>
@@ -191,10 +191,35 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>32. Uniform Great Rhombicuboctahedron</h4>
 <a href="vr/UniformGreatRhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Uniform Great Rhombicuboctahedron compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
+<h4>33. Cuboctahedron Kites</h4>
+<a href="vr/CuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Cuboctahedron Kites compound"></a>
+ <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
+ <br>
+<hr>
+<h4>34. Rhombicuboctahedron Kites</h4>
+<a href="vr/RhombicuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Rhombicuboctahedron Kites compound"></a>
+ <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
+ <br>
+<hr>
+<h4>35. Snub Cube Kites</h4>
+<a href="vr/SnubCubeKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Snub Cube Kites compound"></a>
+ <br>The snubahedron is a compound of three polyhedra, with rotation angles of 45&ordm;, forming a uniform polyhedron.
+ <br>
+<hr>
+<h4>36. Truncated Cube Kites</h4>
+<a href="vr/TruncatedCubeKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Truncated Cube Kites compound"></a>
+ <br>The disnubahedron is a compound of six polyhedra, with rotation angles of 30&ordm; or 45&ordm;, forming a uniform polyhedron. 
+ <br>
+<hr>
+<h4>37. Truncated Cuboctahedron Kites</h4>
+<a href="vr/TruncatedCuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Truncated Cuboctahedron Kites compound"></a>
+ <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Cube family: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/compounds2/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 

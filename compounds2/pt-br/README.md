@@ -38,7 +38,7 @@ function urlHandler(value) {
 <hr>
 <h4>2. Dodecaedro Diakis Côncavo</h4>
 <a href="../vr/ConcaveDyakisDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Dodecaedro Diakis Côncavo composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>3. Cubo</h4>
@@ -78,7 +78,7 @@ function urlHandler(value) {
 <hr>
 <h4>10. Grande Cubicuboctaedro</h4>
 <a href="../vr/GreatCubicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Grande Cubicuboctaedro composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -114,7 +114,7 @@ function urlHandler(value) {
 <hr>
 <h4>17. Rombicuboctaedro combinado</h4>
 <a href="../vr/JoinedRhombicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Rombicuboctaedro combinado composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>18. Cubo Snub combinado</h4>
@@ -191,10 +191,35 @@ function urlHandler(value) {
 <hr>
 <h4>32. Grande Rombicuboctaedro Uniforme</h4>
 <a href="../vr/UniformGreatRhombicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Grande Rombicuboctaedro Uniforme composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <hr>
+<h4>33. Cuboctaedro com pipas</h4>
+<a href="../vr/CuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Cuboctaedro com pipas composto"></a>
+ <br>O resultado do "Composto 4" (Compound 4) de 20 poliedros é um poliedro estrelado, lembrando poliedros de Kepler-Poinsot. 
+ <br>
+<hr>
+<h4>34. Rombicuboctaedro com pipas</h4>
+<a href="../vr/RhombicuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Rombicuboctaedro com pipas composto"></a>
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular.
+ <br>
+<hr>
+<h4>35. Cubo Snub com pipas</h4>
+<a href="../vr/SnubCubeKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Cubo Snub com pipas composto"></a>
+ <br>O snubaedro é um composto de três poliedros, com ângulos de rotação de 45&ordm;, formando um poliedro uniforme.
+ <br>
+<hr>
+<h4>36. Cubo Truncado com pipas</h4>
+<a href="../vr/TruncatedCubeKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Cubo Truncado com pipas composto"></a>
+ <br>O disnubaedro é um composto de seis poliedros, com ângulos de rotação de 30&ordm; ou 45&ordm;, formando um poliedro uniforme. 
+ <br>
+<hr>
+<h4>37. Cuboctaedro Truncado com pipas</h4>
+<a href="../vr/TruncatedCuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Cuboctaedro Truncado com pipas composto"></a>
+ <br>O resultado do "Composto 3" (Compound 3) de 5 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas. 
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Cube family: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/compounds2/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
