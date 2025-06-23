@@ -11,8 +11,10 @@
 		<option disabled value="../compounds1/">Tetrahedra family</option>
 		<option value="../compounds2/">Cube family</option>
 		<!--<option value="../compounds3/">Octahedra family</option>
-		<option value="../compounds4/">Compounds of dual polyhedra</option>
-		<option value="../compounds5/">Compounds of two polyhedra</option>-->
+		<option value="../compounds4/">Dodecahedra and icosahedra family 1</option>
+		<option value="../compounds5/">Dodecahedra and icosahedra family 2</option>
+		<option value="../compounds6/">Compounds of dual polyhedra</option>
+		<option value="../compounds7/">Compounds of two polyhedra</option>-->
 	</select>
 </form>
 <script>

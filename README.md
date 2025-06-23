@@ -11,8 +11,10 @@
 <h3 style="margin-top:3px"><a target="_blank" href="compounds1/"><img src="compounds1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tetrahedra family</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="compounds2/"><img src="compounds2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Cube family</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="compounds3/"><img src="compounds3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Octahedra family</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="compounds4/"><img src="compounds4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compounds of dual polyhedra</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="compounds5/"><img src="compounds5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compounds of two polyhedra</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="compounds4/"><img src="compounds4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dodecahedra and icosahedra family 1</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="compounds5/"><img src="compounds5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dodecahedra and icosahedra family 2</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="compounds6/"><img src="compounds6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compounds of dual polyhedra</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="compounds7/"><img src="compounds7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compounds of two polyhedra</a></h3>-->
 <hr>
 <!--<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="all/">&#x1f4c4; Complete list of polyhedra</a></h3>
 <hr>-->

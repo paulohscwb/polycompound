@@ -11,8 +11,10 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../compounds1/pt-br/"><img src="../compounds1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos tetraedros</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../compounds2/pt-br/"><img src="../compounds2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos cubos</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../compounds3/pt-br/"><img src="../compounds3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos octaedros</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../compounds4/pt-br/"><img src="../compounds4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compostos de poliedros duais</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../compounds5/pt-br/"><img src="../compounds5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compostos de dois poliedros</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="../compounds4/pt-br/"><img src="../compounds4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos dodecaedros e icosaedros 1</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../compounds5/pt-br/"><img src="../compounds5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos dodecaedros e icosaedros 2</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../compounds6/pt-br/"><img src="../compounds6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compostos de poliedros duais</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../compounds7/pt-br/"><img src="../compounds7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Compostos de dois poliedros</a></h3>-->
 <hr>
 <!--<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../todos/">&#x1f4c4; Lista completa dos poliedros</a></h3>
 <hr>-->
