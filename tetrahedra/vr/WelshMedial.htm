@@ -1,0 +1,175 @@
+<html>
+  <head>
+    <title>Tetrahedra</title>
+    <meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+		showProcessingMessages: false,
+		tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] }
+	  });
+	</script>
+	<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #ec0; side: double;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #ffc; opacity:0.6; side: double;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0115; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-mixin id="linhas" material="wireframeLinewidth:1;" line="start: -0.4145 0.0007 -0.266; end: 0.4145 0.0007 -0.266; color: blue" line__2="start: 0.4145 0.0007 -0.266; end: 0.1115 -0.354 0.266; color: green" line__3="start: 0.1115 -0.354 0.266; end: -0.4145 0.0007 -0.266; color: blue" line__4="start: 0.1115 0.354 0.266; end: -0.4145 0.0007 -0.266; color: blue" line__5="start: 0.1115 0.354 0.266; end: 0.4145 0.0007 -0.266; color: green" line__6="start: 0.1115 0.354 0.266; end: 0.1115 -0.354 0.266; color: green"></a-mixin>
+		</a-assets>
+		<a-entity rotation="0 0 0" scale="12 12 12">
+			<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+			<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+			<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+			<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+			<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+			<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+			<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+			<a-entity mixin="linhas"></a-entity>
+		</a-entity>
+		
+		<a-entity id="cmp" visible="false">
+			<a-entity position='9.95 0 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 180 180" position='0 4.25 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 180 180" position='0 -4.25 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity position='-9.95 0 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 180 0" position='6.32 0 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 180 0" position='-3.62 0 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 0 180" position='-3.62 4.25 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 0 180" position='6.32 -4.25 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 0 180" position='-3.62 -4.25 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+			<a-entity rotation="0 0 180" position='6.32 4.25 0' scale="12 12 12">
+				<a-sphere mixin='esfera' position='-0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.4145 0.0007 -0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 -0.354 0.266'></a-sphere>
+				<a-sphere mixin='esfera' position='0.1115 0.354 0.266'></a-sphere>
+				<a-triangle mixin="mtl8" id="ACB" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.4145 0.0007 -0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ADC" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.1115 0.354 0.266" vertex-b="0.1115 -0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="BCD" vertex-a="0.4145 0.0007 -0.266" vertex-c="0.1115 -0.354 0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-triangle mixin="mtl8" id="ABD" vertex-a="-0.4145 0.0007 -0.266" vertex-c="0.4145 0.0007 -0.266" vertex-b="0.1115 0.354 0.266"></a-triangle>
+				<a-entity mixin="linhas"></a-entity>
+			</a-entity>
+		</a-entity>
+
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 300 150 750; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="white"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Welsh tetrahedron medial</span>
+		<br><span class="titulo">Tetraedro de Welsh medial</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices&nbsp;&nbsp;&nbsp;<input type="checkbox" id="comp" onclick="mcomp()">compound
+		<br><span>edge sizes: <font color="blue">$\mathsf{ \sqrt{11} \over{4} }$</font>, <font color="green">$\mathsf{ \sqrt{2} \over{2} }$</font>.</span>
+	</div>
+  </body>
+</html>
