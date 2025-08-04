@@ -12,7 +12,7 @@ function sairVR() {
 function mfaces() {
 	var x = document.getElementById("faces")
 	var sceneEl = document.querySelector('a-scene')
-	var entityEl = sceneEl.querySelector('#fc')
+	var entityEl = sceneEl.querySelector('#mtl8')
 	if (x.checked == true) { 
 	  entityEl.setAttribute('visible','true');
 	}

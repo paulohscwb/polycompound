@@ -24,7 +24,8 @@
 			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0276; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
 			<a-mixin id="mtl9" material="color: #ec0; side:double;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #fcc; opacity:0.6" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="linhas" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: -1 0.671 -0.22375; color: green" line__3="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__4="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start: 1 0.671 -0.22375; end: -1 0.671 -0.22375; color: red"></a-mixin>
+			<a-mixin id="ar"></a-mixin>
+			<a-mixin id="linhas" mixin="ar" material="wireframeLinewidth:1;" line__0="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: -1 0.671 -0.22375; color: green" line__3="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__4="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start: 1 0.671 -0.22375; end: -1 0.671 -0.22375; color: red"></a-mixin>
 		</a-assets>
 		<a-entity rotation="0 0 0" scale="5 5 5">
 			<a-sphere mixin='esfera' position='0 0.447 0.22375'></a-sphere>

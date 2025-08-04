@@ -24,7 +24,8 @@
 			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0276; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
 			<a-mixin id="mtl9" material="color: #ec0; side:double;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #cfe; opacity:0.6; side: double;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="linhas" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: -1 0.671 -0.22375; color: green" line__3="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__4="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start: 1 0.671 -0.22375; end: -1 0.671 -0.22375; color: red"></a-mixin>
+			<a-mixin id="ar"></a-mixin>
+			<a-mixin id="linhas" mixin="ar" material="wireframeLinewidth:1;" line__0="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: -1 0.671 -0.22375; color: green" line__3="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__4="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start: 1 0.671 -0.22375; end: -1 0.671 -0.22375; color: red"></a-mixin>
 		</a-assets>
 		<a-entity rotation="0 0 0" scale="5 5 5" position="0 -2 0">
 			<a-sphere mixin='esfera' position='0 0.447 0.22375'></a-sphere>
@@ -45,19 +46,19 @@
 				<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="0 1.118 1.118" vertex-b="-1 0.671 -0.22375"></a-triangle>
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="1 0.671 -0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__2="start: 1 0.671 -0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 1 0.671 -0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__2="start: 1 0.671 -0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 1 0.671 -0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 				
 				<a-triangle mixin="mtl8" id="ACB" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>-->
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="0 -0.671 0.22375" vertex-c="0 1.118 1.118" vertex-b="-1 0.671 -0.22375"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="-1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 0 -0.671 0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: red" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 				
 				<!--<a-triangle mixin="mtl8" id="ACB" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>-->
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="0 -0.671 0.22375" vertex-c="0 1.118 1.118" vertex-b="1 0.671 -0.22375"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: 1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: red" line__6="start:1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: red" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: 1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start:1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 			</a-entity>
 			<a-entity rotation="-90 0 0" position='0 4.475 2.25' scale="5 5 5">
 				<a-sphere mixin='esfera' position='0 0.447 0.22375'></a-sphere>
@@ -74,19 +75,19 @@
 				<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="0 1.118 1.118" vertex-b="-1 0.671 -0.22375"></a-triangle>
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="1 0.671 -0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__2="start: 1 0.671 -0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 1 0.671 -0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__2="start: 1 0.671 -0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 1 0.671 -0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 				
 				<a-triangle mixin="mtl8" id="ACB" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>-->
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="0 -0.671 0.22375" vertex-c="0 1.118 1.118" vertex-b="-1 0.671 -0.22375"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="-1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 0 -0.671 0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: red" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 				
 				<!--<a-triangle mixin="mtl8" id="ACB" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>-->
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="0 -0.671 0.22375" vertex-c="0 1.118 1.118" vertex-b="1 0.671 -0.22375"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: 1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: red" line__6="start:1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: red" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: 1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start:1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 			</a-entity>
 			<a-entity rotation="23.65 102.7 -150.7" position='-2.51 3.36 4.475' scale="5 5 5">
 				<a-sphere mixin='esfera' position='0 0.447 0.22375'></a-sphere>
@@ -103,19 +104,19 @@
 				<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="0 1.118 1.118" vertex-b="-1 0.671 -0.22375"></a-triangle>
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="1 0.671 -0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__2="start: 1 0.671 -0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 1 0.671 -0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 1 0.671 -0.22375; color: blue" line__2="start: 1 0.671 -0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 1 0.671 -0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 				
 				<a-triangle mixin="mtl8" id="ACB" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="-1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="0 -0.671 0.22375" vertex-c="0 1.118 1.118" vertex-b="-1 0.671 -0.22375"></a-triangle>
 				<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="-1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 0 -0.671 0.22375; color: red" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: red" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: -1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: -1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start:-1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 				
 				<!--<a-triangle mixin="mtl8" id="ACB" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="0 1.118 1.118"></a-triangle>
 				<a-triangle mixin="mtl8" id="ADC" vertex-a="0 0.447 0.22375" vertex-c="1 0.671 -0.22375" vertex-b="0 1.118 1.118"></a-triangle>-->
 				<a-triangle mixin="mtl8" id="BCD" vertex-a="0 -0.671 0.22375" vertex-c="0 1.118 1.118" vertex-b="1 0.671 -0.22375"></a-triangle>
 				<!--<a-triangle mixin="mtl8" id="ABD" vertex-a="0 0.447 0.22375" vertex-c="0 -0.671 0.22375" vertex-b="1 0.671 -0.22375"></a-triangle>-->
-				<a-entity material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: green" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: 1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: red" line__6="start:1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
+				<a-entity mixin="ar" material="wireframeLinewidth:1;" line="start: 0 0.447 0.22375; end: 0 -0.671 0.22375; color: blue" line__2="start: 0 -0.671 0.22375; end: 0 1.118 1.118; color: red" line__3="start: 0 1.118 1.118; end: 0 0.447 0.22375; color: blue" line__4="start: 1 0.671 -0.22375; end: 0 0.447 0.22375; color: blue" line__5="start: 1 0.671 -0.22375; end: 0 -0.671 0.22375; color: green" line__6="start:1 0.671 -0.22375; end: 0 1.118 1.118; color: green"></a-entity>
 			</a-entity>
 		</a-entity>
 		
