@@ -55,13 +55,13 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>3. Tetraedro medial irlandês</h4>
-<a href="../vr/IrishMedial.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Tetraedro medial irlandês"></a>
+<a href="../vr/IrishMedial.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Tetraedro medial irlandês"></a>
  <br>O tetraedro medial irlandês (descoberto em 1994 por Denis Weaire e Robert Phelan) pode ser usado para composição de embalagem em formato plano.
  <br>medidas das arestas: $\mathsf{ \sqrt{5} \over{4} }$, $\mathsf{ \sqrt{6} \over{4} }$.
  <br>
 <hr>
 <h4>4. Tetraedro baixo irlandês</h4>
-<a href="../vr/IrishLow.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Tetraedro baixo irlandês"></a>
+<a href="../vr/IrishLow.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Tetraedro baixo irlandês"></a>
  <br>O tetraedro baixo irlandês (descoberto em 1994 por Denis Weaire e Robert Phelan) pode ser usado para composição de embalagem em formato plano.
  <br>medidas das arestas: $\mathsf{ \sqrt{5} \over{4} }$, $\mathsf{ {1} \over{2} }$, $\mathsf{ \sqrt{6} \over{4} }$.
  <br>
@@ -134,13 +134,13 @@ function urlHandler(value) {
  <br>
  <hr>
 <h4>16. Tetraedro medial galês</h4>
-<a href="../vr/WelshMedial.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="tetraedro medial galês"></a>
+<a href="../vr/WelshMedial.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="tetraedro medial galês"></a>
  <br>O tetraedro medial galês tem uma combinação de propriedades dos tetraedros irlandês e escocês e pode ser usado para composição de embalagem em formato plano.
  <br>medidas das arestas: $\mathsf{ \sqrt{11} \over{4} }$, $\mathsf{ \sqrt{2} \over{2} }$.
  <br>
 <hr>
 <h4>17. Tetraedro baixo galês</h4>
-<a href="../vr/WelshLow.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Tetraedro baixo galês"></a>
+<a href="../vr/WelshLow.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Tetraedro baixo galês"></a>
  <br>O tetraedro baixo galês tem uma combinação de propriedades dos tetraedros irlandês e escocês e pode ser usado para composição de embalagem em formato plano.
  <br>medidas das arestas: $\mathsf{ \sqrt{3} \over{2} }$, $\mathsf{ \sqrt{11} \over{4} }$, $\mathsf{ \sqrt{3} \over{4} }$.
  <br>

@@ -55,13 +55,13 @@ Tetrahedral packing is a problem of arranging identical tetrahedra in three-dime
  <br>
 <hr>
 <h4>3. Irish medial tetrahedron</h4>
-<a href="vr/IrishMedial.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Irish medial tetrahedron"></a>
+<a href="vr/IrishMedial.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Irish medial tetrahedron"></a>
  <br>Irish medial tetrahedron (discovered in 1994 by Denis Weaire and Robert Phelan) can be used for flat packaging composition.
  <br>edge sizes: $\mathsf{ \sqrt{5} \over{4} }$, $\mathsf{ \sqrt{6} \over{4} }$.
  <br>
 <hr>
 <h4>4. Irish low tetrahedron</h4>
-<a href="vr/IrishLow.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Irish low tetrahedron"></a>
+<a href="vr/IrishLow.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Irish low tetrahedron"></a>
  <br>Irish low tetrahedron (discovered in 1994 by Denis Weaire and Robert Phelan) can be used for flat packaging composition.
  <br>edge sizes: $\mathsf{ \sqrt{5} \over{4} }$, $\mathsf{ {1} \over{2} }$, $\mathsf{ \sqrt{6} \over{4} }$.
  <br>
@@ -134,13 +134,13 @@ Tetrahedral packing is a problem of arranging identical tetrahedra in three-dime
  <br>
 <hr>
  <h4>16. Welsh medial tetrahedron</h4>
-<a href="vr/WelshMedial.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Welsh medial tetrahedron"></a>
+<a href="vr/WelshMedial.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Welsh medial tetrahedron"></a>
  <br>The welsh medial tetrahedron has a combination of properties of the Irish and Scottish tetrahedrons and can be used for flat packaging composition.
  <br>edge sizes: $\mathsf{ \sqrt{11} \over{4} }$, $\mathsf{ \sqrt{2} \over{2} }$.
  <br>
 <hr>
 <h4>17. welsh low tetrahedron</h4>
-<a href="vr/WelshLow.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Welsh low tetrahedron"></a>
+<a href="vr/WelshLow.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Welsh low tetrahedron"></a>
  <br>The Welsh low tetrahedron has a combination of properties of the Irish and Scottish tetrahedrons and can be used for flat packaging composition.
  <br>edge sizes: $\mathsf{ \sqrt{3} \over{2} }$, $\mathsf{ \sqrt{11} \over{4} }$, $\mathsf{ \sqrt{3} \over{4} }$.
  <br>
