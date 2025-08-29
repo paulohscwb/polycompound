@@ -41,75 +41,75 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/compound1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive compound"/><img src="../vr/salas/videos/compound2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive compound"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUNlFkcmo7my5krrhVG2_BH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUBFOD4zwVl2mMkGU-phDxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetraedro de Baumgartner</h4>
 <a href="../vr/Baumgartner.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="tetraedro de Baumgartner"></a>
  <br>O tetraedro de Baumgartner (descoberto em 1968) pode ser usado para composição de embalagem em formato prismático.
- <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{11} \over{2} }$, $\mathsf{ \sqrt{3} }$, $\mathsf{ \sqrt{3} \over{2} }$, and $\mathsf{ 2 }$.
- <br><b>ângulos diédricos</b>: 106.74°, 30°, 60°, 73.26° e 90°.
+ <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{11} \over{2} }$, $\mathsf{ \sqrt{3} }$, $\mathsf{ \sqrt{3} \over{2} }$, $\mathsf{ 2 }$.
+ <br><b>ângulos diédricos</b>: 106.74°, 30°, 60°, 73.26°, 90°.
  <br>
 <hr>
 <h4>2. Tetraedro alto irlandês</h4>
 <a href="../vr/IrishHigh.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tetraedro alto irlandês"></a>
  <br>O tetraedro alto irlandês (descoberto em 1994 por Denis Weaire e Robert Phelan) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ {1} \over{2} }$, $\mathsf{ \sqrt{6} \over{4} }$.
- <br><b>ângulos diédricos</b>: 53.13° e 78.46°.
+ <br><b>ângulos diédricos</b>: 53.13°, 78.46°.
  <br>
 <hr>
 <h4>3. Tetraedro medial irlandês</h4>
 <a href="../vr/IrishMedial.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Tetraedro medial irlandês"></a>
  <br>O tetraedro medial irlandês (descoberto em 1994 por Denis Weaire e Robert Phelan) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{5} \over{4} }$, $\mathsf{ \sqrt{6} \over{4} }$.
- <br><b>ângulos diédricos</b>: 73.4° e 67.79°.
+ <br><b>ângulos diédricos</b>: 73.4°, 67.79°.
  <br>
 <hr>
 <h4>4. Tetraedro baixo irlandês</h4>
 <a href="../vr/IrishLow.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Tetraedro baixo irlandês"></a>
  <br>O tetraedro baixo irlandês (descoberto em 1994 por Denis Weaire e Robert Phelan) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{5} \over{4} }$, $\mathsf{ {1} \over{2} }$, $\mathsf{ \sqrt{6} \over{4} }$.
- <br><b>ângulos diédricos</b>: 77.4°, 58.41°, 63.43° e 73°.
+ <br><b>ângulos diédricos</b>: 77.4°, 58.41°, 63.43°, 73°.
  <br>
 <hr>
 <h4>5. Tetraedro escocês</h4>
 <a href="../vr/Scottish.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Tetraedro escocês"></a>
  <br>O tetraedro escocês (descoberto em 1887 por Lord Kelvin) pode ser usado para composição de embalagem em formato antiprismático.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{3} \over{2} }$, $\mathsf{ {1} }$.
- <br><b>ângulos diédricos</b>: 60° e 90°.
+ <br><b>ângulos diédricos</b>: 60°, 90°.
  <br>
 <hr>
 <h4>6. Tetraedro escocês v2</h4>
 <a href="../vr/Scottish1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Tetraedro escocês"></a>
  <br>O tetraedro escocês (descoberto em 1887 por Lord Kelvin) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{3} \over{2} }$, $\mathsf{ {1} }$.
- <br><b>ângulos diédricos</b>: 60° e 90°.
+ <br><b>ângulos diédricos</b>: 60°, 90°.
  <br>
 <hr>
 <h4>7. Tetraedro de Sommerville 1</h4>
 <a href="../vr/Sommerville.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato prismático.
  <br><b>medidas das arestas</b>: $\mathsf{ {2} }$, $\mathsf{ \sqrt{3} }$.
- <br><b>ângulos diédricos</b>: 90° e 60°.
+ <br><b>ângulos diédricos</b>: 90°, 60°.
  <br>
 <hr>
 <h4>8. Tetraedro de Sommerville 1 v2</h4>
 <a href="../vr/Sommerville_a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ {2} }$, $\mathsf{ \sqrt{3} }$.
- <br><b>ângulos diédricos</b>: 90° e 60°.
+ <br><b>ângulos diédricos</b>: 90°, 60°.
  <br>
 <hr>
 <h4>9. Tetraedro de Sommerville 1 v3</h4>
 <a href="../vr/Sommerville_b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato prismático.
  <br><b>medidas das arestas</b>: $\mathsf{ {2} }$, $\mathsf{ \sqrt{3} }$.
- <br><b>ângulos diédricos</b>: 90° e 60°.
+ <br><b>ângulos diédricos</b>: 90°, 60°.
  <br>
 <hr>
 <h4>10. Tetraedro de Sommerville 2</h4>
 <a href="../vr/Sommerville2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato prismático.
  <br><b>medidas das arestas</b>: $\mathsf{ {2} }$, $\mathsf{ \sqrt{2} }$, $\mathsf{ \sqrt{3} }$, $\mathsf{ 1 }$.
- <br><b>ângulos diédricos</b>: 45°, 90° e 60°.
+ <br><b>ângulos diédricos</b>: 45°, 90°, 60°.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -117,28 +117,28 @@ function urlHandler(value) {
 <a href="../vr/Sommerville3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato cúbico.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{3} }$, $\mathsf{ {2} }$, $\mathsf{ 2 \sqrt{2} }$.
- <br><b>ângulos diédricos</b>: 120°, 60°, 45° e 90°.
+ <br><b>ângulos diédricos</b>: 120°, 60°, 45°, 90°.
  <br>
 <hr>
 <h4>12. Tetraedro de Sommerville 3 v2</h4>
 <a href="../vr/Sommerville3_a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{3} }$, $\mathsf{ {2} }$, $\mathsf{ 2 \sqrt{2} }$.
- <br><b>ângulos diédricos</b>: 120°, 60°, 45° e 90°.
+ <br><b>ângulos diédricos</b>: 120°, 60°, 45°, 90°.
  <br>
 <hr>
 <h4>13. Tetraedro de Sommerville 4</h4>
 <a href="../vr/Sommerville4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato prismático.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{5} \over{2} }$, $\mathsf{ \sqrt{3} }$, $\mathsf{ {2} }$.
- <br><b>ângulos diédricos</b>: 131.8°, 114.1°, 30° e 45°.
+ <br><b>ângulos diédricos</b>: 131.8°, 114.1°, 30°, 45°.
  <br>
 <hr>
 <h4>14. Tetraedro de Sommerville 4 v2</h4>
 <a href="../vr/Sommerville4_a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Tetraedro de Sommerville"></a>
  <br>O tetraedro de Sommerville (descoberto em 1923 por Duncan Sommerville) pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{5} \over{2} }$, $\mathsf{ \sqrt{3} }$, $\mathsf{ {2} }$.
- <br><b>ângulos diédricos</b>: 131.8°, 114.1°, 30° e 45°.
+ <br><b>ângulos diédricos</b>: 131.8°, 114.1°, 30°, 45°.
  <br>
 <hr>
 <h4>15. Tetraedro alto galês</h4>
@@ -152,14 +152,14 @@ function urlHandler(value) {
 <a href="../vr/WelshMedial.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="tetraedro medial galês"></a>
  <br>O tetraedro medial galês tem uma combinação de propriedades dos tetraedros irlandês e escocês e pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{11} \over{4} }$, $\mathsf{ \sqrt{2} \over{2} }$.
- <br><b>ângulos diédricos</b>: 67.12° e 74.2°.
+ <br><b>ângulos diédricos</b>: 67.12°, 74.2°.
  <br>
 <hr>
 <h4>17. Tetraedro baixo galês</h4>
 <a href="../vr/WelshLow.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Tetraedro baixo galês"></a>
  <br>O tetraedro baixo galês tem uma combinação de propriedades dos tetraedros irlandês e escocês e pode ser usado para composição de embalagem em formato plano.
  <br><b>medidas das arestas</b>: $\mathsf{ \sqrt{3} \over{2} }$, $\mathsf{ \sqrt{11} \over{4} }$, $\mathsf{ \sqrt{3} \over{4} }$.
- <br><b>ângulos diédricos</b>: 90°, 73.22°, 33.57° e 60°.
+ <br><b>ângulos diédricos</b>: 90°, 73.22°, 33.57°, 60°.
  <br>
  <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
