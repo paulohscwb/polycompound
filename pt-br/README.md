@@ -5,8 +5,12 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polycompound/">english version</a>
-<br><br>Um composto poliédrico é formado de vários poliedros que compartilham o mesmo centro. Eles são os análogos tridimensionais de compostos poligonais, como os hexagramas. Os vértices externos de um composto podem ser conectados para formar um poliedro convexo chamado de casco convexo. Um composto é chamado de facetado de seu casco convexo.
-<br>Neste trabalho são mostrados os compostos poliédricos mais conhecidos, todos com modelos para visualização em Realidade Virtual:  quiricosaedro, composto de Escher, disnubaedro, snubaedro, icosicosaedro e o pequeno snubaedro.
+<div><img align="right" src="../imagens/qr.png"/>
+<br>Um composto poliédrico é formado de vários poliedros que compartilham o mesmo centro. 
+<br>Eles são os análogos tridimensionais de compostos poligonais, como os hexagramas. 
+<br>Os vértices externos de um composto podem ser conectados para formar um poliedro convexo chamado de casco convexo. 
+<br>Um composto é chamado de facetado de seu casco convexo.
+<br>Neste trabalho são mostrados os compostos poliédricos mais conhecidos, todos com modelos para visualização em Realidade Virtual:  quiricosaedro, composto de Escher, disnubaedro, snubaedro, icosicosaedro e o pequeno snubaedro.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../compounds1/pt-br/"><img src="../compounds1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos tetraedros</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../compounds2/pt-br/"><img src="../compounds2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Família dos cubos</a></h3>

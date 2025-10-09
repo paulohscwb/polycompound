@@ -5,8 +5,12 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polycompound/pt-br/">versão em português</a>
- <br><br>A polyhedral compound is composed of several polyhedra sharing a common center. They are the three-dimensional analogs of polygonal compounds such as the hexagram. The outer vertices of a compound can be connected to form a convex polyhedron called its convex hull. A compound is a faceting of its convex hull.
- <br>This work shows the most well-known polyhedral compounds, all with models for viewing in Virtual Reality: chiricosahedron, Escher compound, disnubahedron, snubahedron, icosicosahedron and small snubahedron.
+ <div><img align="right" src="imagens/qr.png"/>
+ <br>A polyhedral compound is composed of several polyhedra sharing a common center. 
+ <br>They are the three-dimensional analogs of polygonal compounds such as the hexagram. 
+ <br>The outer vertices of a compound can be connected to form a convex polyhedron called its convex hull. 
+ <br>A compound is a faceting of its convex hull.
+ <br>This work shows the most well-known polyhedral compounds, all with models for viewing in Virtual Reality: chiricosahedron, Escher compound, disnubahedron, snubahedron, icosicosahedron and small snubahedron.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="compounds1/"><img src="compounds1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tetrahedra family</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="compounds2/"><img src="compounds2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Cube family</a></h3>
