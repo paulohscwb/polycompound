@@ -15,7 +15,7 @@
 		<a-assets>
 			<a-mixin id="mtl1" material="opacity:0.6; color: #f88;"></a-mixin>
 			<a-mixin id="ar"></a-mixin>
-			<a-mixin id="esfera" geometry="radius: 0.049; segments-height:40; segments-width:40;" material="metalness:0.4; roughness:0.5; side: double;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.075; segments-height:40; segments-width:40;" material="metalness:0.4; roughness:0.5; side: double;"></a-mixin>
 			<a-mixin id="esfera1" material="color: red;" mixin="esfera">
 			<a-mixin id="esfera2" material="color: green;" mixin="esfera" color="green">
 			<a-mixin id="esfera3" material="color: orange;" mixin="esfera" color="orange">
@@ -291,13 +291,13 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity scale="1.5 1.5 1.5">
-			<a-gltf-model src="gltf/trinexus1_1.glb"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus1_2.glb"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus2_1.glb"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus2_2.glb"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus3_1.glb"></a-gltf-model>
+		<a-entity scale="1.335 1.335 1.335">
 			<a-gltf-model src="gltf/trinexus3_2.glb"></a-gltf-model>
+			<a-gltf-model src="gltf/trinexus3_1.glb"></a-gltf-model>
+			<a-gltf-model src="gltf/trinexus2_2.glb"></a-gltf-model>
+			<a-gltf-model src="gltf/trinexus2_1.glb"></a-gltf-model>
+			<a-gltf-model src="gltf/trinexus1_2.glb"></a-gltf-model>
+			<a-gltf-model src="gltf/trinexus1_1.glb"></a-gltf-model>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 425 425; maxDistance: 1500;"></a-entity>
