@@ -17,10 +17,11 @@
 			<a-mixin id="ar"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.075; segments-height:40; segments-width:40;" material="metalness:0.4; roughness:0.5; side: double;"></a-mixin>
 			<a-mixin id="esfera1" material="color: red;" mixin="esfera">
-			<a-mixin id="esfera2" material="color: green;" mixin="esfera" color="green">
-			<a-mixin id="esfera3" material="color: orange;" mixin="esfera" color="orange">
-			<a-mixin id="esfera4" material="color: yellow;" mixin="esfera" color="yellow">
-			<a-mixin id="esfera5" material="color: blue;" mixin="esfera" color="blue">
+			<a-mixin id="esfera2" material="color: #ddd;" mixin="esfera">
+			<a-mixin id="esfera2a" material="color: #555;" mixin="esfera">
+			<a-mixin id="esfera3" material="color: orange;" mixin="esfera">
+			<a-mixin id="esfera4" material="color: yellow;" mixin="esfera">
+			<a-mixin id="esfera5" material="color: blue;" mixin="esfera">
 					
 			<a-mixin id="piramide" mixin="ar" material="wireframeLinewidth:1;" line__0="start: 0 0 0.52573; end: -0.5 0.68819 0; color: red" line__2="start: 0 0 0.52573; end: -0.809017 -0.2628655 0; color: red" line__3="start: 0 0 0.52573; end: 0 -0.85065 0; color: red" line__4="start: 0 0 0.52573; end: 0.809017 -0.2628655 0; color: red" line__5="start: 0 0 0.52573; end: 0.5 0.68819 0; color: red"></a-mixin>
 					
@@ -256,17 +257,12 @@
 			</a-entity>
 			
 			<a-entity rotation="180 0 36">
-				<a-sphere mixin='esfera2' position='0.809017 0.2628655 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='0 0.85065 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='-0.809017 0.2628655 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='-0.5 -0.68819 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='0.5 -0.68819 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='-0.5 0.68819 0'></a-sphere>
-				<a-sphere mixin='esfera2' position='-0.809017 -0.2628655 0'></a-sphere>
-				<a-sphere mixin='esfera2' position='0 -0.85065 0'></a-sphere>
-				<a-sphere mixin='esfera2' position='0.809017 -0.2628655 0'></a-sphere>
-				<a-sphere mixin='esfera2' position='0.5 0.68819 0'></a-sphere>
-				<a-sphere mixin='esfera2' position='0 0 1.37638'></a-sphere>
+				<a-sphere mixin='esfera2a' position='0.809017 0.2628655 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2a' position='0 0.85065 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2a' position='-0.809017 0.2628655 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2a' position='-0.5 -0.68819 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2a' position='0.5 -0.68819 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2a' position='0 0 1.37638'></a-sphere>
 				<a-entity mixin="icosaedro"></a-entity>
 			</a-entity>
 			
