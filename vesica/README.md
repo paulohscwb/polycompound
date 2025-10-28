@@ -48,12 +48,12 @@ The Vesica Trinexus is a geometric prototype created by Ramiro Franceschin based
  <br>
 <hr>
 <h4>3. Vesica Trinexus: 3<sup>rd</sup> octave</h4>
-<a href="vr/trinexus3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Vesica Trinexus"></a>
+<a href="vr/trinexus3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Vesica Trinexus"></a>
  <br>In the third octave of the Vesica Trinexus, antiprisms and pentagonal domes appear, resembling arrows that direct energy first toward the root and crown and finally back to the center. The pattern of these polyhedrons reveals a cycle of expansion and return.
  <br>
 <hr>
 <h4>4. Vesica Trinexus: 4<sup>th</sup> octave</h4>
-<a href="vr/trinexus4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Vesica Trinexus"></a>
+<a href="vr/trinexus4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Vesica Trinexus"></a>
  <br>In the fourth octave of the Vesica Trinexus, antiprisms, pyramids, and pentagonal domes appear. The pattern of these polyhedrons reveals a cycle of expansion and return. The result is a geometry that:
 <br>1. Integrates Platonic and Archimedean solids in harmonic progression;
 <br>2. Suggests a three-dimensional energy system (12+1) that dialogues with traditions such as Kabbalah, Mayan symbolism, and the thought of Rudolf Steiner; and

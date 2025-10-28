@@ -48,15 +48,15 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>3. Vesica Trinexus: 3&ordf; oitava</h4>
-<a href="../vr/trinexus3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Vesica Trinexus"></a>
+<a href="../vr/trinexus3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Vesica Trinexus"></a>
  <br>Na terceira oitava da Vesica Trinexus surgem antiprismas e cúpolas pentagonais, que parecem setas que orientam a energia primeiro em direção à raiz e à coroa e, finalmente, de volta ao centro.
  <br>
 <hr>
 <h4>4. Vesica Trinexus: 4&ordf; oitava</h4>
-<a href="../vr/trinexus4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Vesica Trinexus"></a>
+<a href="../vr/trinexus4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Vesica Trinexus"></a>
  <br>Na quarta oitava da Vesica Trinexus surgem antiprismas, pirâmides e cúpolas pentagonais. O padrão destes poliedros revela um ciclo de expansão e retorno. O resultado é uma geometria que:
 <br>1. Integra sólidos platônicos e arquimedianos em progressão harmônica;
-<br>2. Sugere um sistema energético tridimensional (12+1) que dialoga com tradições como a Cabalá, o simbolismo maia e o pensamento de Rudolf Steiner; e
+<br>2. Sugere um sistema energético tridimensional (12+1) que dialoga com tradições como a Cabala, o simbolismo maia e o pensamento de Rudolf Steiner; e
 <br>3. Mostra como a energia circula em oitavas: do centro aos polos e dos polos de volta ao centro.
  <br>
 <hr>
