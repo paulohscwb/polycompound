@@ -18,6 +18,7 @@
 		<option value="../../compounds1/pt-br/">Família dos tetraedros</option>
 		<option value="../../compounds2/pt-br/">Família dos cubos</option>
 		<option disabled value="../../tetrahedra/pt-br/">Embalagens tetraédricas</option>
+		<option value="../../vesica/pt-br/">Vesica piscis e Trinexus</option>
 		<!--<option value="../../compounds3/pt-br/">Família dos octaedros</option>
 		<option value="../../compounds4/pt-br/">Família dos dodecaedros e icosaedros 1</option>
 		<option value="../../compounds5/pt-br/">Família dos dodecaedros e icosaedros 2</option>

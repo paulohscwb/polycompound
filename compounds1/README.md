@@ -11,6 +11,7 @@
 		<option disabled value="../compounds1/">Tetrahedra family</option>
 		<option value="../compounds2/">Cube family</option>
 		<option value="../tetrahedra/">Tetrahedra packings</option>
+		<option value="../vesica/">Vesica piscis and Trinexus</option>
 		<!--<option value="../compounds3/">Octahedra family</option>
 		<option value="../compounds4/">Dodecahedra and icosahedra family 1</option>
 		<option value="../compounds5/">Dodecahedra and icosahedra family 2</option>
