@@ -19,9 +19,9 @@
 			<a-mixin id="esfera" geometry="radius: 0.0345; segments-height:40; segments-width:40;" material="metalness:0.4; roughness:0.5; side: double;"></a-mixin>
 			<a-mixin id="esfera1" material="color: #0df;" mixin="esfera">
 			<a-mixin id="esfera2" material="color: lightgreen;" mixin="esfera">
-			<a-mixin id="fc" obj-model="obj: #aq; mtl: #mt1">
+			<!--<a-mixin id="fc" obj-model="obj: #aq; mtl: #mt1">
 			<a-mixin id="fc1" obj-model="obj: #aq; mtl: #mt2">
-			<!--<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra/selfintersecttruncated/vr/outros/GreatTruncatedIcosidodecahedronL.obj"></a-asset-item>-->
+			<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra/selfintersecttruncated/vr/outros/GreatTruncatedIcosidodecahedronL.obj"></a-asset-item>-->
 			<!--<a-asset-item id="mt1" src="https://paulohscwb.github.io/polycompound/vesica/obj/cor12.mtl"></a-asset-item>-->
 			<!--<a-asset-item id="mt2" src="https://paulohscwb.github.io/polycompound/vesica/obj/cor1.mtl"></a-asset-item>-->
 			<a-mixin id="fg" gltf-model="gltf/GreatTruncatedIcosidodecahedron1.glb">
@@ -286,14 +286,12 @@
 			<a-entity mixin="anima1">
 				<a-entity rotation="31.75 36 0" position="0 -0.3625 0">
 					<a-entity mixin="fg"></a-entity>
-					<a-entity mixin="fg" scale="0.995 0.995 0.995"></a-entity>
 				</a-entity>
 			</a-entity>
 			
 			<a-entity mixin="anima2">
 				<a-entity rotation="31.75 0 0" position="0 0.3625 0">
 					<a-entity mixin="fg1"></a-entity>
-					<a-entity mixin="fg1" scale="0.995 0.995 0.995"></a-entity>
 				</a-entity>
 			</a-entity>
 		</a-entity>
