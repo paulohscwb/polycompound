@@ -131,6 +131,52 @@ The Vesica Trinexus is a geometric prototype created by Ramiro Franceschin based
  <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two snub icosidodecadodecahedrons.
  <br>
 <hr>
+<h4>19. Vesica piscis with Möbius hexakis icosahedrons</h4>
+<a href="vr/vesica15.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Vesica piscis with Möbius Hexakis Icosahedrons"></a>
+ <br>The Vesica Piscis symbol represents the creation of the universe and the origin of life from duality. In this adaptation, the Vesica piscis is constructed with two Möbius hexakis icosahedrons.
+ <br>
+<hr>
+<h4>20. Vesica piscis with Möbius 10-akis dodecahedrons</h4>
+<a href="vr/vesica16.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Vesica piscis with Möbius 10-akis dodecahedrons"></a>
+ <br>The Vesica piscis is a geometric figure formed by the intersection of two circles with the same radius, where the center of each circle is located on the circumference of the other. In this adaptation, the Vesica piscis is constructed with two Möbius 10-akis dodecahedrons.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Vesica piscis with small icosacronic hexecontahedrons</h4>
+<a href="vr/vesica17.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Vesica piscis with small icosacronic hexecontahedrons"></a>
+ <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two small icosacronic hexecontahedrons.
+ <br>
+<hr>
+<h4>22. Vesica piscis with small dodecacronic hexecontahedrons</h4>
+<a href="vr/vesica18.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Vesica piscis with small dodecacronic hexecontahedrons"></a>
+ <br>The Vesica piscis can be found in architecture, such as in the arches and vaulted ceilings of Gothic cathedrals, and in artistic representations, such as the outlines of images of saints. In this adaptation, the Vesica piscis is constructed with two small dodecacronic hexecontahedrons.
+ <br>
+<hr>
+<h4>23. Vesica piscis with small hexagonal hexecontahedrons</h4>
+<a href="vr/vesica19.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Vesica piscis with small hexagonal hexecontahedrons"></a>
+ <br>The Vesica Piscis symbol represents the union of opposites: masculine and feminine, spiritual and material. In this adaptation, the Vesica piscis is constructed with two small hexagonal hexecontahedrons.
+ <br>
+<hr>
+<h4>24. Vesica piscis with icositruncated dodecadodecahedrons</h4>
+<a href="vr/vesica20.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Vesica piscis with icositruncated dodecadodecahedrons"></a>
+ <br>The Vesica Piscis symbol represents the alchemical marriage in the search for spiritual wholeness. In this adaptation, the Vesica piscis is constructed with two icositruncated dodecadodecahedrons.
+ <br>
+<hr>
+<h4>25. Vesica piscis with great truncated icosahedrons</h4>
+<a href="vr/vesica21.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Vesica piscis with great truncated icosahedrons"></a>
+ <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two great truncated icosahedrons.
+ <br>
+<hr>
+<h4>26. Vesica piscis with truncated dodecadodecahedrons</h4>
+<a href="vr/vesica22.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Vesica piscis with truncated dodecadodecahedrons"></a>
+ <br>The Vesica Piscis symbol represents the creation of the universe and the origin of life from duality. In this adaptation, the Vesica piscis is constructed with two truncated dodecadodecahedrons.
+ <br>
+<hr>
+<h4>27. Vesica piscis with small snub icosicosidodecahedrons</h4>
+<a href="vr/vesica24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Vesica piscis with small snub icosicosidodecahedrons"></a>
+ <br>The Vesica piscis is a geometric figure formed by the intersection of two circles with the same radius, where the center of each circle is located on the circumference of the other. In this adaptation, the Vesica piscis is constructed with two small snub icosicosidodecahedrons.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Vesica piscis and Trinexus: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/vesica/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

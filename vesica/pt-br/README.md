@@ -131,6 +131,52 @@ function urlHandler(value) {
  <br>A Vesica piscis é uma figura geométrica formada pela interseção de dois círculos com o mesmo raio, onde o centro de cada círculo se localiza na circunferência do outro. Nesta adaptação, temos a Vesica piscis construída com dois icosidodecadodecaedros snub.
  <br>
  <hr>
+ <h4>19. Vesica piscis com icosaedros hexakis de Möbius</h4>
+<a href="../vr/vesica15.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Vesica piscis com icosaedros hexakis de Möbius"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois icosaedros hexakis de Möbius.
+ <br>
+ <hr>
+ <h4>20. Vesica piscis com dodecaedros 10-akis de Möbius</h4>
+<a href="../vr/vesica16.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Vesica piscis com dodecaedros 10-akis de Möbius"></a>
+ <br>O símbolo da Vesica piscis representa a criação do universo e a origem da vida a partir da dualidade. Nesta adaptação, temos a Vesica piscis construída com dois dodecaedros 10-akis de Möbius.
+ <br>
+ <hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>21. Vesica piscis com pequenos hexecontaedros icosacrônicos</h4>
+<a href="../vr/vesica17.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Vesica piscis com pequenos hexecontaedros icosacrônicos"></a>
+ <br>O símbolo da Vesica piscis representa a união de opostos: masculino e feminino, espiritual e material. Nesta adaptação, temos a Vesica piscis construída com dois pequenos hexecontaedros icosacrônicos.
+ <br>
+ <hr>
+ <h4>22. Vesica piscis com pequenos hexecontaedros dodecacrônicos</h4>
+<a href="../vr/vesica18.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Vesica piscis com pequenos hexecontaedros dodecacrônicos"></a>
+ <br>O símbolo da Vesica piscis representa o casamento alquímico na busca pela totalidade espiritual. Nesta adaptação, temos a Vesica piscis construída com dois pequenos hexecontaedros dodecacrônicos.
+ <br>
+ <hr>
+ <h4>23. Vesica piscis com pequenos hexecontaedros hexagonais</h4>
+<a href="../vr/vesica19.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Vesica piscis com pequenos hexecontaedros hexagonais"></a>
+ <br>A Vesica piscis é uma figura geométrica formada pela interseção de dois círculos com o mesmo raio, onde o centro de cada círculo se localiza na circunferência do outro. Nesta adaptação, temos a Vesica piscis construída com dois pequenos hexecontaedros hexagonais.
+ <br>
+ <hr>
+ <h4>24. Vesica piscis com dodecadodecaedros icositruncados</h4>
+<a href="../vr/vesica20.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Vesica piscis com dodecadodecaedros icositruncados"></a>
+ <br>A Vesica piscis é utilizada em diversas áreas, como matemática (a construção do triângulo equilátero), arte, arquitetura e simbologia, representando a união, a criação e a dualidade. Nesta adaptação, temos a Vesica piscis construída com dois dodecadodecaedros icositruncados.
+ <br>
+ <hr>
+ <h4>25. Vesica piscis com grandes icosaedros truncados</h4>
+<a href="../vr/vesica21.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Vesica piscis com grandes icosaedros truncados"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois grandes icosaedros truncados.
+ <br>
+ <hr>
+ <h4>26. Vesica piscis com dodecadodecaedros truncados</h4>
+<a href="../vr/vesica22.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Vesica piscis com dodecadodecaedros truncados"></a>
+ <br>O símbolo da Vesica piscis representa a criação do universo e a origem da vida a partir da dualidade. Nesta adaptação, temos a Vesica piscis construída com dois dodecadodecaedros truncados.
+ <br>
+ <hr>
+ <h4>27. Vesica piscis com pequenos icosicosidodecaedros snub</h4>
+<a href="../vr/vesica23.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Vesica piscis com pequenos icosicosidodecaedros snub"></a>
+ <br>O símbolo da Vesica piscis representa a união de opostos: masculino e feminino, espiritual e material. Nesta adaptação, temos a Vesica piscis construída com dois pequenos icosicosidodecaedros snub.
+ <br>
+ <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Vesica piscis and Trinexus: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/vesica/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
