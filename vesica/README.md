@@ -173,7 +173,7 @@ The Vesica Trinexus is a geometric prototype created by Ramiro Franceschin based
  <br>
 <hr>
 <h4>27. Vesica piscis with small snub icosicosidodecahedrons</h4>
-<a href="vr/vesica24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Vesica piscis with small snub icosicosidodecahedrons"></a>
+<a href="vr/vesica23.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Vesica piscis with small snub icosicosidodecahedrons"></a>
  <br>The Vesica piscis is a geometric figure formed by the intersection of two circles with the same radius, where the center of each circle is located on the circumference of the other. In this adaptation, the Vesica piscis is constructed with two small snub icosicosidodecahedrons.
  <br>
 <hr>
