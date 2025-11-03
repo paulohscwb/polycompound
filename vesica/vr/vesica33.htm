@@ -17,8 +17,8 @@
 			<a-mixin id="mtl1" material="opacity:0.6; color: #f88;"></a-mixin>
 			<a-mixin id="ar"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.081; segments-height:40; segments-width:40;" material="metalness:0.4; roughness:0.5; side: double;"></a-mixin>
-			<a-mixin id="esfera1" material="color: lightgreen;" mixin="esfera">
-			<a-mixin id="esfera2" material="color: violet;" mixin="esfera">
+			<a-mixin id="esfera1" material="color: #aaf;" mixin="esfera">
+			<a-mixin id="esfera2" material="color: lightgreen;" mixin="esfera">
 			<a-mixin id="fg" gltf-model="gltf/TruncatedIcosahedronK1.glb">
 			<a-mixin id="fg1" gltf-model="gltf/TruncatedIcosahedronK2.glb">
 			<a-mixin id="anima1" animation__2='property: rotation; dur: 600000; to: 0 -360 0; delay: 5000; loop:true; easing: linear;'></a-mixin>
@@ -27,7 +27,7 @@
 		
 		<a-light type="point" color="yellow" intensity="0.5"></a-light>
 		
-		<a-entity scale="1.7 1.7 1.7" rotation="0 18 0">
+		<a-entity scale="1.7 1.7 1.7" rotation="0 -18 0">
 			<a-entity mixin="anima1">
 				<a-entity rotation="31.25 0 0" position="0 -1.279 0">
 					<a-sphere mixin='esfera2' position='0.5 0.0 -2.427051 '></a-sphere>
