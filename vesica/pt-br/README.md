@@ -177,6 +177,62 @@ function urlHandler(value) {
  <br>O símbolo da Vesica piscis representa a união de opostos: masculino e feminino, espiritual e material. Nesta adaptação, temos a Vesica piscis construída com dois pequenos icosicosidodecaedros snub.
  <br>
  <hr>
+ <h4>28. Vesica piscis com rombicosidodecaedros de pipas</h4>
+<a href="../vr/vesica24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Vesica piscis com rombicosidodecaedros de pipas"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois rombicosidodecaedros de pipas.
+ <br>
+ <hr>
+ <h4>29. Vesica piscis com rombicuboctaedros de pipas</h4>
+<a href="../vr/vesica25.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Vesica piscis com rombicuboctaedros de pipas"></a>
+ <br>O símbolo da Vesica piscis representa a criação do universo e a origem da vida a partir da dualidade. Nesta adaptação, temos a Vesica piscis construída com dois rombicuboctaedros de pipas.
+ <br>
+ <hr>
+ <h4>30. Vesica piscis com icosidodecaedros</h4>
+<a href="../vr/vesica26.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Vesica piscis com icosidodecaedros"></a>
+ <br>O símbolo da Vesica piscis representa a união de opostos: masculino e feminino, espiritual e material. Nesta adaptação, temos a Vesica piscis construída com dois icosidodecaedros.
+ <br>
+ <hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>31. Vesica piscis com icosidodecaedros de pipas</h4>
+<a href="../vr/vesica27.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Vesica piscis com icosidodecaedros de pipas"></a>
+ <br>O símbolo da Vesica piscis representa a união de opostos: masculino e feminino, espiritual e material. Nesta adaptação, temos a Vesica piscis construída com dois icosidodecaedros de pipas.
+ <br>
+ <hr>
+ <h4>32. Vesica piscis com hexecontaedros deltoidais</h4>
+<a href="../vr/vesica28.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Vesica piscis com hexecontaedros deltoidais"></a>
+ <br>O símbolo da Vesica piscis representa o casamento alquímico na busca pela totalidade espiritual. Nesta adaptação, temos a Vesica piscis construída com dois hexecontaedros deltoidais.
+ <br>
+ <hr>
+ <h4>33. Vesica piscis com triacontaedros disdiakis</h4>
+<a href="../vr/vesica29.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Vesica piscis com triacontaedros disdiakis"></a>
+ <br>A Vesica piscis é uma figura geométrica formada pela interseção de dois círculos com o mesmo raio, onde o centro de cada círculo se localiza na circunferência do outro. Nesta adaptação, temos a Vesica piscis construída com dois triacontaedros disdiakis.
+ <br>
+ <hr>
+ <h4>34. Vesica piscis com icositetraedros deltoides</h4>
+<a href="../vr/vesica30.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Vesica piscis com icositetraedros deltoides"></a>
+ <br>A Vesica piscis é utilizada em diversas áreas, como matemática (a construção do triângulo equilátero), arte, arquitetura e simbologia, representando a união, a criação e a dualidade. Nesta adaptação, temos a Vesica piscis construída com dois icositetraedros deltoides.
+ <br>
+ <hr>
+ <h4>35. Vesica piscis com icosaedros truncados</h4>
+<a href="../vr/vesica31.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Vesica piscis com icosaedros truncados"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois icosaedros truncados.
+ <br>
+ <hr>
+ <h4>36. Vesica piscis com cubos snub</h4>
+<a href="../vr/vesica32.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Vesica piscis com cubos snub"></a>
+ <br>O símbolo da Vesica piscis representa a criação do universo e a origem da vida a partir da dualidade. Nesta adaptação, temos a Vesica piscis construída com dois cubos snub.
+ <br>
+ <hr>
+ <h4>37. Vesica piscis com icosaedros truncados de pipas</h4>
+<a href="../vr/vesica33.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Vesica piscis com icosaedros truncados de pipas"></a>
+ <br>O símbolo da Vesica piscis representa a união de opostos: masculino e feminino, espiritual e material. Nesta adaptação, temos a Vesica piscis construída com dois icosaedros truncados de pipas.
+ <br>
+ <hr>
+ <h4>38. Vesica piscis com cubos snub de pipas</h4>
+<a href="../vr/vesica34.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Vesica piscis com cubos snub de pipas"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois cubos snub de pipas.
+ <br>
+ <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Vesica piscis and Trinexus: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/vesica/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
