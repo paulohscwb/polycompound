@@ -36,7 +36,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/compound1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive compound"/><img src="../vr/salas/videos/compound2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive compound"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUBFOD4zwVl2mMkGU-phDxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxW93CJp4QohK8HrCzKgM7t4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Vesica Trinexus: 1&ordf; oitava</h4>
 <a href="../vr/trinexus1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Vesica Trinexus"></a>
  <br>Ao invés de utilizar a construção com dois círculos planos, são utilizados dois icosaedros intersectados para formar o primeiro estágio da Vesica Trinexus. Essa interseção de icosaedros gera a semente, ponto zero da construção. A partir daí, a geometria se expande em oitavas sucessivas.
@@ -49,7 +49,7 @@ function urlHandler(value) {
 <hr>
 <h4>3. Vesica Trinexus: 3&ordf; oitava</h4>
 <a href="../vr/trinexus3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Vesica Trinexus"></a>
- <br>Na terceira oitava da Vesica Trinexus surgem antiprismas e cúpolas pentagonais, que parecem setas que orientam a energia primeiro em direção à raiz e à coroa e, finalmente, de volta ao centro.
+ <br>Na terceira oitava da Vesica Trinexus surgem antiprismas e cúpolas pentagonais, que parecem setas que orientam a energia primeiro em direção à raiz e à coroa e, finalmente, de volta ao centro. O padrão desses poliedros revela um ciclo de expansão e retorno.
  <br>
 <hr>
 <h4>4. Vesica Trinexus: 4&ordf; oitava</h4>

@@ -36,7 +36,7 @@ The Vesica Trinexus is a geometric prototype created by Ramiro Franceschin based
  <p align="center"><img src="vr/salas/videos/compound1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de compostos"/><img src="vr/salas/videos/compound2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de compostos"/></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUBFOD4zwVl2mMkGU-phDxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxW93CJp4QohK8HrCzKgM7t4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Vesica Trinexus: 1<sup>st</sup> octave</h4>
 <a href="vr/trinexus1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Vesica Trinexus"></a>
  <br>Instead of using a construction with two flat circles, two intersecting icosahedrons are used to form the first stage of the Vesica Trinexus. This intersection of icosahedrons generates the seed, the zero point of the construction. From there, the geometry expands in successive octaves.
