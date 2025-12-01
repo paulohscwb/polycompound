@@ -233,6 +233,27 @@ The Vesica Trinexus is a geometric prototype created by Ramiro Franceschin based
  <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two snub cubes of kites.
  <br>
 <hr>
+<h4>39. Vesica piscis with joined truncated cuboctahedron</h4>
+<a href="vr/vesica35.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Vesica piscis with joined truncated cuboctahedrons"></a>
+ <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two joined truncated cuboctahedrons.
+ <br>
+<hr>
+<h4>40. Vesica piscis with joined truncated icosahedron</h4>
+<a href="vr/vesica36.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Vesica piscis with joined truncated icosahedrons"></a>
+ <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two joined truncated icosahedrons.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>41. Vesica piscis with joined truncated dodecahedron</h4>
+<a href="vr/vesica37.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Vesica piscis with joined truncated dodecahedrons"></a>
+ <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two joined truncated dodecahedrons.
+ <br>
+<hr>
+<h4>42. Vesica piscis with joined truncated icosidodecahedron</h4>
+<a href="vr/vesica38.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Vesica piscis with joined truncated icosidodecahedrons"></a>
+ <br>The Vesica piscis is used in a variety of fields, including mathematics (the construction of an equilateral triangle), art, architecture, and symbolism, representing union, creation, and duality. In this adaptation, the Vesica piscis is constructed with two joined truncated icosidodecahedrons.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Vesica piscis and Trinexus: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/vesica/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

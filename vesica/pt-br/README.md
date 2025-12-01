@@ -233,6 +233,27 @@ function urlHandler(value) {
  <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois cubos snub de pipas.
  <br>
  <hr>
+ <h4>39. Vesica piscis com cuboctaedro truncado combinado</h4>
+<a href="../vr/vesica35.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Vesica piscis com cuboctaedro truncado combinado"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois cuboctaedros truncados combinados.
+ <br>
+ <hr>
+ <h4>40. Vesica piscis com icosaedro truncado combinado</h4>
+<a href="../vr/vesica36.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Vesica piscis com icosaedro truncado combinado"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois icosaedros truncados combinados.
+ <br>
+ <hr>
+ <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+ <h4>41. Vesica piscis com dodecaedro truncado combinado</h4>
+<a href="../vr/vesica37.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Vesica piscis com dodecaedro truncado combinado"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois dodecaedros truncados combinados.
+ <br>
+ <hr>
+ <h4>42. Vesica piscis com icosidodecaedro truncado combinado</h4>
+<a href="../vr/vesica38.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Vesica piscis com icosidodecaedro truncado combinado"></a>
+ <br>A Vesica piscis pode ser encontrada na arquitetura, como em arcos e tetos abobadados de catedrais góticas, e em representações artísticas, como contornos de imagens de santos. Nesta adaptação, temos a Vesica piscis construída com dois icosidodecaedros truncados combinados.
+ <br>
+ <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Vesica piscis and Trinexus: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/vesica/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
