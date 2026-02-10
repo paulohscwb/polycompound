@@ -224,17 +224,17 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>38. Octaedro triakis</h4>
-<a href="../vr/TriakisOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Octaedro triakis composto"></a>
+<a href="../vr/TriakisOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Octaedro triakis composto"></a>
  <br>O resultado do "Composto 3" (Compound 3) de 5 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas. 
  <br>
 <hr>
 <h4>39. Octaedro truncado</h4>
-<a href="../vr/TruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Octaedro truncado composto"></a>
+<a href="../vr/TruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Octaedro truncado composto"></a>
  <br>O resultado do "Composto 3" (Compound 3) de 5 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas. 
  <br>
 <hr>
 <h4>40. Octaedro truncado com pipas</h4>
-<a href="../vr/TruncatedOctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Octaedro Truncado com pipas composto"></a>
+<a href="../vr/TruncatedOctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Octaedro Truncado com pipas composto"></a>
  <br>O resultado do "Composto 3" (Compound 3) de 5 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas. 
  <br>
 <hr>

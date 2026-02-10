@@ -224,17 +224,17 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
  <br>
 <hr>
 <h4>38. Triakis octahedron</h4>
-<a href="vr/TriakisOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Triakis Octahedron compound"></a>
+<a href="vr/TriakisOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Triakis Octahedron compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
  <br>
 <hr>
 <h4>39. Truncated octahedron</h4>
-<a href="vr/TruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Truncated Octahedron compound"></a>
+<a href="vr/TruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Truncated Octahedron compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
  <br>
 <hr>
 <h4>40. Truncated octahedron kites</h4>
-<a href="vr/TruncatedOctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Truncated Octahedron Kites compound"></a>
+<a href="vr/TruncatedOctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Truncated Octahedron Kites compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
  <br>
 <hr>
