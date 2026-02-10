@@ -31,7 +31,7 @@ function urlHandler(value) {
 <br>Este trabalho mostra os compostos de poliedros, modelados para visualização em Realidade Virtual.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
-  <p align="center"><img src="../vr/salas/videos/compound1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive compound"/><img src="../vr/salas/videos/compound2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive compound"/></p> 
+  <p align="center"><img src="../vr/salas/videos/compound.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive compound"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUNlFkcmo7my5krrhVG2_BH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
