@@ -42,7 +42,7 @@ function urlHandler(value) {
 <hr>
 <h4>2. Cubo ortokis de hélice biscrito</h4>
 <a href="../vr/BiscribedOrthokisPropellorCube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Cubo ortokis de hélice biscrito composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>3. Octaedro de hélice ortotruncado biscrito</h4>
@@ -82,7 +82,7 @@ function urlHandler(value) {
 <hr>
 <h4>10. Octaedro truncado snub biscrito</h4>
 <a href="../vr/BiscribedSnubTruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Octaedro truncado snub biscrito composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -118,7 +118,7 @@ function urlHandler(value) {
 <hr>
 <h4>17. Dodecaedro diakis</h4>
 <a href="../vr/DyakisDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Dodecaedro Diakis composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>18. Grande icositetraedro hexacrônico</h4>
@@ -195,7 +195,7 @@ function urlHandler(value) {
 <hr>
 <h4>32. Octaedro truncado de hélice</h4>
 <a href="../vr/PropellorTruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Octaedro truncado de hélice composto"></a>
- <br>O resultado do "Composto 1" (Compound 1) de 2 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
+ <br>O resultado do "Composto 1" (Compound 1) de 3 poliedros é um poliedro estrelado, lembrando pirâmides estreladas duplas.
  <br>
 <hr>
 <h4>33. Dodecaedro Rômbico</h4>

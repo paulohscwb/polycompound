@@ -42,7 +42,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>2. Biscribed orthokis propellor cube</h4>
 <a href="vr/BiscribedOrthokisPropellorCube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Biscribed orthokis propellor cube compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>3. Biscribed orthotruncated propellor octahedron</h4>
@@ -82,7 +82,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>10. Biscribed snub truncated octahedron</h4>
 <a href="vr/BiscribedSnubTruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Biscribed snub truncated octahedron compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
@@ -118,7 +118,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>17. Dyakis dodecahedron</h4>
 <a href="vr/DyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Dyakis Dodecahedron compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>18. Great hexacronic icositetrahedron</h4>
@@ -195,7 +195,7 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>32. Propellor truncated octahedron</h4>
 <a href="vr/PropellorTruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Propellor truncated octahedron compound"></a>
- <br>The result of "Compound 1" of 2 polyhedra is a stellated polyhedron, resembling stellated pyramids.
+ <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>33. Rhombic dodecahedron</h4>
