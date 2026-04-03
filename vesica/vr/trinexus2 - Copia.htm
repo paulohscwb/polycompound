@@ -14,20 +14,21 @@
 <div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
-			<a-mixin id="mtl1" material="side:double; opacity:0.6; color: #f88;"></a-mixin>
+			<a-mixin id="mtl1" material="side:double; opacity:0.6; color: #34C759;"></a-mixin>
 			<a-mixin id="ar"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.075; segments-height:40; segments-width:40;" material="metalness:0.4; roughness:0.5; side: double;"></a-mixin>
 			<a-mixin id="esfera1" material="color: red;" mixin="esfera">
 			<a-mixin id="esfera2" material="color: #ddd;" mixin="esfera">
 			<a-mixin id="esfera2a" material="color: #333;" mixin="esfera">
-			<a-mixin id="esfera3" material="color: orange;" mixin="esfera">
+			<a-mixin id="esfera3" material="color: #D4AF37;" mixin="esfera">
 			<a-mixin id="esfera4" material="color: yellow;" mixin="esfera">
 			<a-mixin id="esfera5" material="color: #3090C7;" mixin="esfera">
+			<a-mixin id="rd" geometry="radius: 0.15;" mixin="esfera">
 			
 			<a-mixin id="anima1" animation__2='property: rotation; dur: 600000; to: 0 0 -360; delay: 5000; loop:true; easing: linear;'></a-mixin>
 			<a-mixin id="anima1a" animation__2='property: rotation; dur: 600000; to: 0 -360 0; delay: 5000; loop:true; easing: linear;'></a-mixin>
 			<a-mixin id="anima2" animation__2='property: rotation; dur: 600000; to: 0 0 360; delay: 5000; loop:true; easing: linear;'></a-mixin>
-			<a-mixin id="anima2a" animation__2='property: rotation; dur: 600000; to: 0 360 0; delay: 5000; loop:true; easing: linear;'></a-mixin>	
+			<a-mixin id="anima2a" animation__2='property: rotation; dur: 600000; to: 0 360 0; delay: 5000; loop:true; easing: linear;'></a-mixin>
 		</a-assets>
 		
 		<a-light type="point" color="yellow" intensity="0.5"></a-light>
@@ -110,27 +111,27 @@
 			</a-entity>
 			
 			<a-entity mixin="anima1">
-				<a-sphere mixin='esfera2' position='0.809017 0.2628655 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='0 0.85065 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='-0.809017 0.2628655 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='-0.5 -0.68819 0.85065'></a-sphere>
-				<a-sphere mixin='esfera2' position='0.5 -0.68819 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2 rd' color="#32ADE6" position='0.809017 0.2628655 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2 rd' color="#007AFF" position='0 0.85065 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2 rd' color="#5856D6" position='-0.809017 0.2628655 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2 rd' color="#AF52DE" position='-0.5 -0.68819 0.85065'></a-sphere>
+				<a-sphere mixin='esfera2 rd' color="#40E0D0" position='0.5 -0.68819 0.85065'></a-sphere>
 				<a-sphere mixin='esfera2' position='-0.5 0.68819 0'></a-sphere>
 				<a-sphere mixin='esfera2' position='-0.809017 -0.2628655 0'></a-sphere>
 				<a-sphere mixin='esfera2' position='0 -0.85065 0'></a-sphere>
 				<a-sphere mixin='esfera2' position='0.809017 -0.2628655 0'></a-sphere>
 				<a-sphere mixin='esfera2' position='0.5 0.68819 0'></a-sphere>
-				<a-sphere mixin='esfera2' position='0 0 1.37638'></a-sphere>
+				<a-sphere mixin='esfera2 rd' color="#66E0A3" position='0 0 1.37638'></a-sphere>
 			</a-entity>
 			
 			<a-entity mixin="anima2">
 				<a-entity rotation="0 180 0">
-					<a-sphere mixin='esfera2a' position='0.809017 0.2628655 0.85065'></a-sphere>
-					<a-sphere mixin='esfera2a' position='0 0.85065 0.85065'></a-sphere>
-					<a-sphere mixin='esfera2a' position='-0.809017 0.2628655 0.85065'></a-sphere>
-					<a-sphere mixin='esfera2a' position='-0.5 -0.68819 0.85065'></a-sphere>
-					<a-sphere mixin='esfera2a' position='0.5 -0.68819 0.85065'></a-sphere>
-					<a-sphere mixin='esfera2a' position='0 0 1.37638'></a-sphere>
+					<a-sphere mixin='esfera2a rd' color="#FFD60A" position='0.809017 0.2628655 0.85065'></a-sphere>
+					<a-sphere mixin='esfera2a rd' color="#D4E157" position='0 0.85065 0.85065'></a-sphere>
+					<a-sphere mixin='esfera2a rd' color="#34C759" position='-0.809017 0.2628655 0.85065'></a-sphere>
+					<a-sphere mixin='esfera2a rd' color="#FF6A3D" position='-0.5 -0.68819 0.85065'></a-sphere>
+					<a-sphere mixin='esfera2a rd' color="#FF9500" position='0.5 -0.68819 0.85065'></a-sphere>
+					<a-sphere mixin='esfera2a rd' color="#FF3B30" position='0 0 1.37638'></a-sphere>
 					<a-sphere mixin='esfera2a' position='-0.5 0.68819 0'></a-sphere>
 					<a-sphere mixin='esfera2a' position='-0.809017 -0.2628655 0'></a-sphere>
 					<a-sphere mixin='esfera2a' position='0 -0.85065 0'></a-sphere>
@@ -161,15 +162,15 @@
 		</a-entity>
 		
 		<a-entity scale="1.65 1.65 1.65">
-			<a-gltf-model src="gltf/trinexus2_2a.glb"mixin="anima1a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus2_2b.glb"mixin="anima2a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus2_1a.glb"mixin="anima1a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus2_1b.glb"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus2_1c.glb"mixin="anima2a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus1_1a.glb"mixin="anima2a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus1_1b.glb"mixin="anima1a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus1_2a.glb"mixin="anima1a"></a-gltf-model>
-			<a-gltf-model src="gltf/trinexus1_2b.glb" mixin="anima2a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus2_2a.glb"mixin="anima1a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus2_2b.glb"mixin="anima2a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus2_1a.glb"mixin="anima1a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus2_1b.glb"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus2_1c.glb"mixin="anima2a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_1a.glb"mixin="anima2a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_1b.glb"mixin="anima1a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_2a.glb"mixin="anima1a"></a-gltf-model>
+			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_2b.glb" mixin="anima2a"></a-gltf-model>
 		</a-entity>
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
