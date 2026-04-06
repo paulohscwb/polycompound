@@ -123,7 +123,7 @@ function urlHandler(value) {
 <hr>
 <h4>18. Mapa de Klein</h4>
 <a href="../vr/KleinMap.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Mapa de Klein composto"></a>
- <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular.
+ <br>O icosicosaedro é um composto de dez poliedros e pode ser considerado como um composto regular de poliedros. Os vértices coincidem em pares, e formam um casco convexo com os vértices de um dodecaedro regular.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
