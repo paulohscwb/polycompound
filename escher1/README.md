@@ -36,27 +36,27 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <h3 id="m3d" align="center">3D models</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxW8purzwYv7b2vtU5ck3ECC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Biscribed hexpropellor cube</h4>
-<a href="vr/ConcaveDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Biscribed hexpropellor cube compound"></a>
+<a href="vr/ConcaveDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Biscribed hexpropellor cube compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>2. Biscribed orthokis propellor cube</h4>
-<a href="vr/CubeOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Biscribed orthokis propellor cube compound"></a>
+<a href="vr/CubeOctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Biscribed orthokis propellor cube compound"></a>
  <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>3. Biscribed orthotruncated propellor octahedron</h4>
-<a href="vr/DisdyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Biscribed orthotruncated propellor octahedron compound"></a>
+<a href="vr/DisdyakisDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Biscribed orthotruncated propellor octahedron compound"></a>
  <br>The result of "Compound 2" of 3 polyhedra is a stellated polyhedron, resembling stellated trapezohedrons.
  <br>
 <hr>
 <h4>4. Biscribed propellor cube</h4>
-<a href="vr/DisdyakisTriacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Biscribed propellor cube compound"></a>
+<a href="vr/DisdyakisTriacontahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Biscribed propellor cube compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids.
  <br>
 <hr>
 <h4>5. Biscribed propellor octahedron</h4>
-<a href="vr/DodecahedronIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Biscribed propellor octahedron compound"></a>
+<a href="vr/DodecahedronIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Biscribed propellor octahedron compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
@@ -66,160 +66,160 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
  <br>
 <hr>
 <h4>7. Biscribed propellor truncated cuboctahedron</h4>
-<a href="vr/Escher1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Biscribed propellor truncated cuboctahedron compound"></a>
+<a href="vr/Escher1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Biscribed propellor truncated cuboctahedron compound"></a>
  <br>The disnubahedron is a compound of six polyhedra, with rotation angles of 30&ordm; or 45&ordm;, forming a uniform polyhedron. 
  <br>
 <hr>
 <h4>8. Biscribed propellor truncated octahedron</h4>
-<a href="vr/GreatDisdyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Biscribed propellor truncated octahedron compound"></a>
+<a href="vr/GreatDisdyakisDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Biscribed propellor truncated octahedron compound"></a>
  <br>The snubahedron is a compound of three polyhedra, with rotation angles of 45&ordm;, forming a uniform polyhedron.
  <br>
 <hr>
 <h4>9. Biscribed snub cube</h4>
-<a href="vr/GreatDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Biscribed snub cube compound"></a>
+<a href="vr/GreatDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Biscribed snub cube compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>10. Biscribed snub truncated octahedron</h4>
-<a href="vr/GreatDodecahedron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Biscribed snub truncated octahedron compound"></a>
+<a href="vr/GreatDodecahedron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Biscribed snub truncated octahedron compound"></a>
  <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Biscribed truncated cuboctahedron</h4>
-<a href="vr/GreatDodecahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Biscribed truncated cuboctahedron compound"></a>
+<a href="vr/GreatDodecahedron2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Biscribed truncated cuboctahedron compound"></a>
  <br>The result of "Compound 2" of 3 polyhedra is a stellated polyhedron, resembling stellated trapezohedrons.
  <br>
 <hr>
 <h4>12. Biscribed truncated octahedron</h4>
-<a href="vr/GreatDodecahedron3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Biscribed truncated octahedron compound"></a>
+<a href="vr/GreatDodecahedron3.html" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Biscribed truncated octahedron compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>13. Chamfered cube</h4>
-<a href="vr/GreatDodecicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Chamfered Cube compound"></a>
+<a href="vr/GreatDodecicosacron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Chamfered Cube compound"></a>
  <br>The Escher compound can be adapted to the cube family using 5 polyhedra. The result of this composition is a solid that resembles the Escher solid. The central image of the 1948 engraving Stars popularized the Escher compound of octahedra.
  <br>
 <hr>
 <h4>14. Chamfered octahedron</h4>
-<a href="vr/GreatDodecicosacron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Chamfered octahedron compound"></a>
+<a href="vr/GreatDodecicosacron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Chamfered octahedron compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids.
  <br>
 <hr>
 <h4>15. Deltoidal icositetrahedron</h4>
-<a href="vr/GreatIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Deltoidal Icositetrahedron compound"></a>
+<a href="vr/GreatIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Deltoidal Icositetrahedron compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
  <h4>16. Disdyakis dodecahedron</h4>
-<a href="vr/GreatIcosahedron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Disdyakis Dodecahedron compound"></a>
+<a href="vr/GreatIcosahedron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Disdyakis Dodecahedron compound"></a>
  <br>The snubahedron is a compound of three polyhedra, with rotation angles of 45&ordm;, forming a uniform polyhedron.
  <br>
 <hr>
 <h4>17. Dyakis dodecahedron</h4>
-<a href="vr/GreatIcosahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Dyakis Dodecahedron compound"></a>
+<a href="vr/GreatIcosahedron2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Dyakis Dodecahedron compound"></a>
  <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>18. Great hexacronic icositetrahedron</h4>
-<a href="vr/GreatIcosahedron3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Great Hexacronic Icositetrahedron compound"></a>
+<a href="vr/GreatIcosahedron3.html" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Great Hexacronic Icositetrahedron compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
 <h4>19. Jessens orthogonal icosahedron</h4>
-<a href="vr/GreatIcosahedron4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Jessens Orthogonal Icosahedron compound"></a>
+<a href="vr/GreatIcosahedron4.html" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Jessens Orthogonal Icosahedron compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>20. Joined truncated cube</h4>
-<a href="vr/GreatRhombihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Joined Truncated Cube compound"></a>
+<a href="vr/GreatRhombihexacron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Joined Truncated Cube compound"></a>
  <br>The Escher compound can be adapted to the cube family using 5 polyhedra. The result of this composition is a solid that resembles the Escher solid. The central image of the 1948 engraving Stars popularized the Escher compound of octahedra.
  <br>
  <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>21. Joined truncated cuboctahedron</h4>
-<a href="vr/GreatStellatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Joined Truncated Cuboctahedron compound"></a>
+<a href="vr/GreatStellatedDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Joined Truncated Cuboctahedron compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>22. Möbius hexakis octahedron</h4>
-<a href="vr/GreatTriambicIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Möbius Hexakis Octahedron compound"></a>
+<a href="vr/GreatTriambicIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Möbius Hexakis Octahedron compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
 <h4>23. Möbius octakis hexahedron dual</h4>
-<a href="vr/HeptagrammicDipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Möbius octakis hexahedron dual compound"></a>
+<a href="vr/HeptagrammicDipyramid.html" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Möbius octakis hexahedron dual compound"></a>
  <br>The result of "Compound 2" of 3 polyhedra is a stellated polyhedron, resembling stellated trapezohedrons.
  <br>
 <hr>
 <h4>24. Octahedron</h4>
-<a href="vr/HexakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Octahedron compound"></a>
+<a href="vr/HexakisTetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Octahedron compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids.
  <br>
 <hr>
 <h4>25. Octahedron kites</h4>
-<a href="vr/IcosahedronDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Octahedron kites compound"></a>
+<a href="vr/IcosahedronDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Octahedron kites compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
 <h4>26. Pentagonal icositetrahedron</h4>
-<a href="vr/MedialDeltoidalHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Pentagonal icositetrahedron compound"></a>
+<a href="vr/MedialDeltoidalHexecontahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Pentagonal icositetrahedron compound"></a>
  <br>The Escher compound can be adapted to the cube family using 5 polyhedra. The result of this composition is a solid that resembles the Escher solid. The central image of the 1948 engraving Stars popularized the Escher compound of octahedra.
  <br>
 <hr>
 <h4>27. Propellor cube</h4>
-<a href="vr/MedialDeltoidalHexecontahedron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Propellor Cube compound"></a>
+<a href="vr/MedialDeltoidalHexecontahedron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Propellor Cube compound"></a>
  <br>The disnubahedron is a compound of six polyhedra, with rotation angles of 30&ordm; or 45&ordm;, forming a uniform polyhedron. 
  <br>
 <hr>
 <h4>28. Propellor octahedron</h4>
-<a href="vr/MedialDeltoidalHexecontahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Propellor Octahedron compound"></a>
+<a href="vr/MedialDeltoidalHexecontahedron2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Propellor Octahedron compound"></a>
  <br>The snubahedron is a compound of three polyhedra, with rotation angles of 45&ordm;, forming a uniform polyhedron.
  <br>
 <hr>
 <h4>29. Propellor snub cube</h4>
-<a href="vr/MedialIcosacronicHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Propellor snub cube compound"></a>
+<a href="vr/MedialIcosacronicHexecontahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Propellor snub cube compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>30. Propellor tetrakis hexahedron</h4>
-<a href="vr/MedialIcosacronicHexecontahedron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Propellor tetrakis hexahedron compound"></a>
+<a href="vr/MedialIcosacronicHexecontahedron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Propellor tetrakis hexahedron compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>31. Propellor truncated cuboctahedron</h4>
-<a href="vr/MedialRhombicTriacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Propellor truncated cuboctahedron compound"></a>
+<a href="vr/MedialRhombicTriacontahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Propellor truncated cuboctahedron compound"></a>
  <br>The disnubahedron is a compound of six polyhedra, with rotation angles of 30&ordm; or 45&ordm;, forming a uniform polyhedron. 
  <br>
 <hr>
 <h4>32. Propellor truncated octahedron</h4>
-<a href="vr/MedialRhombicTriacontahedron1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Propellor truncated octahedron compound"></a>
+<a href="vr/MedialRhombicTriacontahedron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Propellor truncated octahedron compound"></a>
  <br>The result of "Compound 1" of 3 polyhedra is a stellated polyhedron, resembling stellated pyramids.
  <br>
 <hr>
 <h4>33. Rhombic dodecahedron</h4>
-<a href="vr/MedialTriambicIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Rhombic Dodecahedron compound"></a>
+<a href="vr/MedialTriambicIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Rhombic Dodecahedron compound"></a>
  <br>The result of "Compound 4" of 20 polyhedra is a stellated polyhedron, resembling Kepler-Poinsot polyhedra.
  <br>
 <hr>
 <h4>34. Small hexacronic icositetrahedron</h4>
-<a href="vr/Merkaba.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Small Hexacronic Icositetrahedron compound"></a>
+<a href="vr/Merkaba.html" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Small Hexacronic Icositetrahedron compound"></a>
  <br>The chiricosahedron is composed of five polyhedra and can be considered regular. In this compound, we have the vertices of the five chosen polyhedra forming a convex hull with common vertices, or with correspondence with the faces of a regular dodecahedron.
  <br>
 <hr>
 <h4>35. Tetradyakis hexahedron</h4>
-<a href="vr/Mobius24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Tetradyakis Hexahedron compound"></a>
+<a href="vr/Mobius24.html" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Tetradyakis Hexahedron compound"></a>
  <br>The snubahedron is a compound of three polyhedra, with rotation angles of 45&ordm;, forming a uniform polyhedron.
  <br>
 <hr>
 <h4>36. Tetrahemihexacron</h4>
-<a href="vr/Mobius48a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Tetrahemihexacron compound"></a>
+<a href="vr/Mobius48a.html" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Tetrahemihexacron compound"></a>
  <br>The disnubahedron is a compound of six polyhedra, with rotation angles of 30&ordm; or 45&ordm;, forming a uniform polyhedron. 
  <br>
 <hr>
 <h4>37. Tetrahemihexahedron</h4>
-<a href="vr/Mobius48b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Tetrahemihexahedron compound"></a>
+<a href="vr/Mobius48b.html" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Tetrahemihexahedron compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
  <br>
 <hr>
@@ -230,11 +230,6 @@ A polyhedral compound is an arrangement of several interpenetrating polyhedra, a
 <hr>
 <h4>39. Truncated octahedron</h4>
 <a href="vr/Mobius120b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Truncated Octahedron compound"></a>
- <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
- <br>
-<hr>
-<h4>40. Truncated octahedron kites</h4>
-<a href="vr/OctahedronCube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Truncated Octahedron Kites compound"></a>
  <br>The result of "Compound 3" of 5 polyhedra is a stellated polyhedron, resembling double stellated pyramids. 
  <br>
 <hr>
