@@ -11,7 +11,7 @@
  	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
   </head>
   <body>
-<div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+<div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl1" material="side:double; opacity:0.6; color: #34C759;"></a-mixin>
@@ -25,15 +25,18 @@
 			<a-mixin id="esfera5" material="color: #3090C7;" mixin="esfera">
 			<a-mixin id="rd" geometry="radius: 0.15;" mixin="esfera">
 			
-			<a-mixin id="anima1" animation__2='property: rotation; dur: 600000; to: 0 0 -360; delay: 5000; loop:true; easing: linear;'></a-mixin>
-			<a-mixin id="anima1a" animation__2='property: rotation; dur: 600000; to: 0 -360 0; delay: 5000; loop:true; easing: linear;'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: rotation; dur: 600000; to: 0 0 360; delay: 5000; loop:true; easing: linear;'></a-mixin>
-			<a-mixin id="anima2a" animation__2='property: rotation; dur: 600000; to: 0 360 0; delay: 5000; loop:true; easing: linear;'></a-mixin>
+			<a-mixin id="anima1" animation__2='property: rotation; dur: 60000; to: 0 0 -360; delay: 5000; loop:1; easing: easeInOutCubic;' animation__3='property: rotation; dur: 60000; to: 0 0 360; delay: 65000; loop:1; easing: easeInOutCubic;'></a-mixin>
+			<a-mixin id="anima1a" animation__2='property: rotation; dur: 60000; to: 0 -360 0; delay: 5000; loop:1; easing: easeInOutCubic;' animation__3='property: rotation; dur: 60000; to: 0 360 0; delay: 65000; loop:1; easing: easeInOutCubic;'></a-mixin>
+			<a-mixin id="anima2" animation__2='property: rotation; dur: 60000; to: 0 0 360; delay: 5000; loop:1; easing: easeInOutCubic;' animation__3='property: rotation; dur: 60000; to: 0 0 -360; delay: 65000; loop:1; easing: easeInOutCubic;'></a-mixin>
+			<a-mixin id="anima2a" animation__2='property: rotation; dur: 60000; to: 0 360 0; delay: 5000; loop:1; easing: easeInOutCubic;' animation__3='property: rotation; dur: 60000; to: 0 -360 0; delay: 65000; loop:1; easing: easeInOutCubic;'></a-mixin>
+			<a-mixin id="eixo" rotation="90 0 0" color="white" geometry="height:4.8; radius:0.025" animation__2='property: material.color; dur: 60000; from: #fff; to: #0f0; delay: 65000; easing: easeInOutCubic;'></a-mixin>
 		</a-assets>
 		
 		<a-light type="point" color="yellow" intensity="0.5"></a-light>
 		
+		<a-entity scale="1.15 1.15 1.15" rotation="0 18 0">
 		<a-entity rotation="-90 0 0" scale="2.5 2.5 2.5">
+			<a-cylinder mixin="eixo"></a-cylinder>
 			<a-entity mixin="anima1">
 				<a-sphere mixin='esfera3' position='0.809017 0.2628655 1.87631'></a-sphere>
 				<a-sphere mixin='esfera3' position='-0.809017 0.2628655 1.87631'></a-sphere>
@@ -171,6 +174,7 @@
 			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_1b.glb"mixin="anima1a"></a-gltf-model>
 			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_2a.glb"mixin="anima1a"></a-gltf-model>
 			<a-gltf-model src="https://paulohscwb.github.io/polycompound/vesica/vr/gltf/trinexus1_2b.glb" mixin="anima2a"></a-gltf-model>
+		</a-entity>
 		</a-entity>
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
