@@ -9,6 +9,24 @@
 	<script src="nomes.js"></script>
 	<link rel="stylesheet" href="nomes.css">
  	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
+  <script>AFRAME.registerComponent('model-opacity', {
+  schema: {default: 1.0},
+  init: function () {
+    this.el.addEventListener('model-loaded', this.update.bind(this));
+  },
+  update: function () {
+    var mesh = this.el.getObject3D('mesh');
+    var data = this.data;
+    if (!mesh) { return; }
+    mesh.traverse(function (node) {
+      if (node.isMesh) {
+        node.material.opacity = data;
+        node.material.transparent = data < 1.0;
+        node.material.needsUpdate = true;
+      }
+    });
+  }
+});</script>
   </head>
   <body>
 <div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
@@ -22,8 +40,8 @@
 		
 		<a-entity scale="1.1 1.1 1.1">
 			<a-light type="point" color="white" intensity="0.7" position="0 0 0"></a-light>
-			<a-gltf-model id="fc" src="#poli" scale="5 5 5"></a-gltf-model>
-			<a-gltf-model id="fc" src="#poli1" scale="7.07 7.07 7.07"></a-gltf-model>
+			<a-gltf-model  model-opacity="0.9" id="fc" src="#poli" scale="5 5 5"></a-gltf-model>
+			<a-gltf-model  model-opacity="0.9" id="fc" src="#poli1" scale="7.07 7.07 7.07"></a-gltf-model>
 		</a-entity>
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
