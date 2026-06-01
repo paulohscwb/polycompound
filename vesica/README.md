@@ -14,6 +14,7 @@
 		<option value="../tetrahedra/">Tetrahedra packings</option>
 		<option disabled value="../vesica/">Vesica piscis and Trinexus</option>
 		<option value="../compounds3/">Octahedra family</option>
+		<option value="../escher1/">Escher's transformations</option>
 		<!--<option value="../compounds4/">Dodecahedra and icosahedra family 1</option>
 		<option value="../compounds5/">Dodecahedra and icosahedra family 2</option>
 		<option value="../compounds6/">Compounds of dual polyhedra</option>
