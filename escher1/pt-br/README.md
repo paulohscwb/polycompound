@@ -78,22 +78,22 @@ function urlHandler(value) {
 <hr>
 <h4>9. Grande dodecaedro</h4>
 <a href="../vr/GreatDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Grande dodecaedro"></a>
- <br>Composição de um grande dodecaedro com o dual pequeno dodecaedro estrelado, com partes das faces do grande dodecaedro transformadas com a remoção de trapézios.
+ <br>Composição de um grande dodecaedro com o grande icosaedro, com partes das faces do grande dodecaedro transformadas com a remoção de trapézios.
 <hr>
 <h4>10. Grande dodecaedro v2</h4>
 <a href="../vr/GreatDodecahedron1.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Grande dodecaedro"></a>
- <br>Composição de um grande dodecaedro com o dual pequeno dodecaedro estrelado, com partes das faces destes poliedros transformadas com a remoção de trapézios.
+ <br>Composição de um grande dodecaedro com o grande icosaedro, com partes das faces destes poliedros transformadas com a remoção de trapézios.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Grande dodecaedro v3</h4>
 <a href="../vr/GreatDodecahedron2.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Grande dodecaedro"></a>
- <br>Composição de um grande dodecaedro com o dual pequeno dodecaedro estrelado, com partes das faces destes poliedros transformadas com a remoção de trapézios.
+ <br>Composição de um grande dodecaedro com o grande icosaedro, com partes das faces destes poliedros transformadas com a remoção de trapézios.
  <br>
 <hr>
 <h4>12. Grande dodecaedro v4</h4>
 <a href="../vr/GreatDodecahedron3.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Grande dodecaedro"></a>
- <br>Composição de um grande dodecaedro com o dual pequeno dodecaedro estrelado, com partes das faces destes poliedros transformadas com a remoção de trapézios.
+ <br>Composição de um grande dodecaedro com o grande icosaedro, com partes das faces destes poliedros transformadas com a remoção de trapézios.
  <br>
 <hr>
 <h4>13. Grande dodecicosacro</h4>

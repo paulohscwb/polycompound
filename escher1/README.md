@@ -78,23 +78,23 @@ The technical work Gravitation was completed in 1952 by the Dutch artist Maurits
 <hr>
 <h4>9. Great dodecahedron</h4>
 <a href="vr/GreatDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Great dodecahedron"></a>
- <br>A composition of a great dodecahedron with its dual small stellated dodecahedron, with parts of the faces of great dodecahedron transformed by removing trapezoids.
+ <br>A composition of a great dodecahedron with the great icosahedron, with parts of the faces of great dodecahedron transformed by removing trapezoids.
  <br>
 <hr>
 <h4>10. Great dodecahedron v2</h4>
 <a href="vr/GreatDodecahedron1.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Grande dodecaedro"></a>
- <br>A composition of a great dodecahedron with its dual small stellated dodecahedron, with parts of the faces of these polyhedra transformed by removing trapezoids.
+ <br>A composition of a great dodecahedron with the great icosahedron, with parts of the faces of these polyhedra transformed by removing trapezoids.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Great dodecahedron v3</h4>
 <a href="vr/GreatDodecahedron2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Great dodecahedron"></a>
- <br>A composition of a great dodecahedron with its dual small stellated dodecahedron, with parts of the faces of these polyhedra transformed by removing trapezoids.
+ <br>A composition of a great dodecahedron with the great icosahedron, with parts of the faces of these polyhedra transformed by removing trapezoids.
  <br>
 <hr>
 <h4>12. Great dodecahedron v4</h4>
 <a href="vr/GreatDodecahedron3.html" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Great dodecahedron"></a>
- <br>A composition of a great dodecahedron with its dual small stellated dodecahedron, with parts of the faces of these polyhedra transformed by removing trapezoids.
+ <br>A composition of a great dodecahedron with the great icosahedron, with parts of the faces of these polyhedra transformed by removing trapezoids.
  <br>
 <hr>
 <h4>13. Great dodecicosacron</h4>
