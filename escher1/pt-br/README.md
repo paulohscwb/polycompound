@@ -78,7 +78,7 @@ function urlHandler(value) {
 <hr>
 <h4>9. Grande dodecaedro</h4>
 <a href="../vr/GreatDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Grande dodecaedro"></a>
- <br>Composição de um grande dodecaedro com o grande icosaedro, com partes das faces do grande dodecaedro transformadas com a remoção de trapézios.
+ <br>Composição de um grande dodecaedro com o dual pequeno dodecaedro estrelado, com partes das faces do grande dodecaedro transformadas com a remoção de trapézios.
 <hr>
 <h4>10. Grande dodecaedro v2</h4>
 <a href="../vr/GreatDodecahedron1.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Grande dodecaedro"></a>
