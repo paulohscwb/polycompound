@@ -234,6 +234,38 @@ function urlHandler(value) {
  <br>O composto de Escher pode ser adaptado para a família de cubos utilizando-se 5 poliedros. O resultado desta composição é um sólido que lembra o sólido de Escher. A imagem central da gravura Stars de 1948 popularizou o composto de Escher de octaedros.
  <br>
 <hr>
+<h4>40. Dodecaedro Côncavo</h4>
+<a href="../vr/ConcaveDodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Dodecaedro Côncavo composto"></a>
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>41. Sólido de Escher</h4>
+<a href="../vr/EscherE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Sólido de Escher composto"></a>
+ <br>O snubaedro é um composto de três poliedros, com ângulos de rotação de 45&ordm;, formando um poliedro uniforme.
+ <br>
+<hr>
+<h4>42. Grande Dodecaedro Disdiakis</h4>
+<a href="../vr/GreatDisdyakisDodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Grande Dodecaedro Disdiakis composto"></a>
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular.
+ <br>
+<hr>
+<h4>43. Grande Rombihexacro</h4>
+<a href="../vr/GreatRhombihexacronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Grande Rombihexacro composto"></a>
+ <br>O composto de Escher pode ser adaptado para a família de cubos utilizando-se 5 poliedros. O resultado desta composição é um sólido que lembra o sólido de Escher. A imagem central da gravura Stars de 1948 popularizou o composto de Escher de octaedros.
+ <br>
+<hr>
+<h4>44. Octaedro Hexakis de Möbius</h4>
+<a href="../vr/MobiusHexakisOctahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Octaedro Hexakis de Möbius composto"></a>
+ <br>O composto de Escher pode ser adaptado para a família de cubos utilizando-se 5 poliedros. O resultado desta composição é um sólido que lembra o sólido de Escher. A imagem central da gravura Stars de 1948 popularizou o composto de Escher de octaedros. 
+ <br>
+ <hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>45. Hexaedro Octakis de Möbius</h4>
+<a href="../vr/MobiusOctakisHexahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Hexaedro Octakis de Möbius composto"></a>
+ <br>O quiricosaedro é composto de cinco poliedros e pode ser considerado regular. Neste composto, temos os vértices dos cinco poliedros escolhidos formando um casco convexo com vértices comuns, ou com correspondência com as faces de um dodecaedro regular.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedral Compound - Cube family: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polycompound/compounds2/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
